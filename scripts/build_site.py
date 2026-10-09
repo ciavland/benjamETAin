@@ -69,7 +69,7 @@ def main() -> None:
             "version": "1.0.0",
             "description": "Statische, quelloffene Metadaten zur regulären Benjamin-Blümchen-Hörspielserie.",
         },
-        "servers": [{"url": "https://example.invalid/benjaminmeta/api/v1"}],
+        "servers": [{"url": "https://ciavland.github.io/benjamETAin/api/v1"}],
         "paths": {
             "/episodes.json": {
                 "get": {

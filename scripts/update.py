@@ -23,7 +23,7 @@ from bbmeta.scrapers import (
 )
 
 CACHE = ROOT / ".cache"
-USER_AGENT = "benjaminmeta/0.1 (public metadata research; contact via repository)"
+USER_AGENT = "benjamETAin/0.1 (+https://github.com/ciavland/benjamETAin)"
 SHOP_URL_OVERRIDES = {
     45: "https://www.kiddinx-shop.de/benjamin-bluemchen-als-zirkusclown-folge-45.html",
     46: "https://www.kiddinx-shop.de/benjamin-bluemchen-hilft-den-tieren-folge-46.html",

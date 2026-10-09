@@ -2,6 +2,10 @@
 
 Offene, maschinenlesbare Metadaten zur regulären Benjamin-Blümchen-Hörspielserie – mit durchsuchbarer Website und statischer JSON-API.
 
+- Website: <https://ciavland.github.io/benjamETAin/>
+- API-Dokumentation: <https://ciavland.github.io/benjamETAin/api/>
+- OpenAPI: <https://ciavland.github.io/benjamETAin/api/openapi.json>
+
 Der aktuelle Import enthält die regulären Folgen 1–170. Im Mittelpunkt stehen Beschreibung, Sprechrollen und Produktionsdaten. Jede Angabe bleibt über `sources` auf ihre Herkunft zurückführbar; fehlende Werte werden nicht geraten.
 
 ## Daten
@@ -23,6 +27,21 @@ GET /api/v1/episodes/001.json
 GET /api/v1/status.json
 GET /api/openapi.json
 ```
+
+Beispiel:
+
+```js
+const response = await fetch(
+  "https://ciavland.github.io/benjamETAin/api/v1/episodes/170.json"
+);
+const episode = await response.json();
+```
+
+GitHub Pages liefert die JSON-Dateien mit CORS aus, sodass sie direkt aus Browsern und Apps gelesen werden können.
+
+## Veröffentlichung
+
+Der Workflow `.github/workflows/pages.yml` prüft Daten und Parser, baut Website und API und veröffentlicht `dist/` automatisch auf GitHub Pages.
 
 ## Aktualisieren und prüfen
 
