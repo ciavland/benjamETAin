@@ -1,0 +1,92 @@
+{
+  "number": 100,
+  "title": "Ottos neue Freundin Teil 1",
+  "description": "Vor dem Elefantenhaus entdecken Benjamin und Otto die vom Regen pitschnasse Stella, Ottos neue Klassenkameradin. Sie wollte sehen, ob es im Zoo wirklich einen sprechenden Elefanten gibt. Am nächsten Tag ist Stella krank. Benjamin, Otto und Karla Kolumna besuchen sie und erzählen von ihren schönsten Abenteuern. Stella hört staunend zu!",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Stella",
+      "person": "Bierstedt, Marie"
+    },
+    {
+      "role": "Stellas Mama",
+      "person": "Pukaß, Melanie"
+    },
+    {
+      "role": "Dr. Wunderlich",
+      "person": "Völz, Wolfgang"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-100/benjamin-bluemchen-ottos-neue-freundin-teil-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8996",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/100.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

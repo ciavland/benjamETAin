@@ -1,0 +1,23 @@
+{
+  "number": 141,
+  "title": "Nachts in der Erfinderwerkstatt",
+  "description": "Benjamin und Otto werden von Eddi Eddison gebeten, eine Nacht in seiner Werkstatt zu verbringen. Sie sollen seine Erfindung für die Erfindermesse bewachen, denn er muss die Alarmanlage des Herrn Bürgermeisters reparieren. Und andere Erfinder wollen unbedingt herausfinden, was er gebaut hat. Das wird eine sehr turbulente Nacht!",
+  "release_year": 2019,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-141/benjamin-bluemchen-nachts-der-erfinderwerkstatt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

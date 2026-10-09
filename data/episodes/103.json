@@ -1,0 +1,87 @@
+{
+  "number": 103,
+  "title": "5:0 für Benjamin",
+  "description": "In Neustadt findet ein wichtiges Fußballturnier statt, alle Leute sind im Fußballfieber. Auch Benjamin, Otto und Stella haben sich angesteckt. Benjamin wettet, dass es der Neustädter SC ins Endspiel schafft. Aber es sieht gar nicht danach aus. Ob der liebste Elefant der Welt und seine Freunde der Mannschaft helfen können?",
+  "release_year": 2006,
+  "release_date": null,
+  "duration_seconds": 4080,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Stella",
+      "person": "Bierstedt, Marie"
+    },
+    {
+      "role": "Stellas Mama",
+      "person": "Pukaß, Melanie"
+    },
+    {
+      "role": "Stellas Papa",
+      "person": "Maniscalco, Claudio"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-103/benjamin-bluemchen-50-fuer-benjamin",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8999",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/103.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 127,
+  "title": "… in der Musikschule",
+  "description": "Benjamin, Otto und Stella wollen Zoodirektor Tierlieb zum Geburtstag etwas ganz Besonderes schenken: ein Konzert, auf dem sie selbst für ihn spielen. Natürlich müssen sie dafür noch etwas üben. Eine junge Musiklehrerin hilft ihnen gerne, aber leider gibt es in der Musikschule jemanden, der das nicht so toll findet!",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-127/benjamin-bluemchen-der-musikschule",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "number": 7,
+  "title": "... verliebt sich",
+  "description": "Mit dem Zirkus Pepperoni kommt auch die Elefantendame Leila in die Stadt. Benjamin verliebt sich so sehr in sie, dass sein Rüssel ganz rot wird. Doch schon am nächsten Tag ist der Zirkus – mit Leila – verschwunden. Benjamins Ohren hängen fast bis auf den Boden, so traurig ist er: Ob er die bezaubernde Leila jemals wiedersieht?",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Gauß, Helmut"
+    },
+    {
+      "role": "Tierarzt",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Kreklau, Rüdiger"
+    },
+    {
+      "role": "Caroline",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Kind",
+      "person": "Lucke, Steffen"
+    },
+    {
+      "role": "Ansager",
+      "person": "Condrus, Wolfgang"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Jonas Bergler"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-7/benjamin-bluemchen-verliebt-sich",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3814",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/007.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

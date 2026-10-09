@@ -1,0 +1,104 @@
+{
+  "number": 20,
+  "title": "... und Bibi Blocksberg",
+  "description": "Benjamin will seinem Freund Otto einfach nicht glauben, dass in Neustadt eine kleine Hexe lebt. Da bleibt Otto nichts anderes übrig, als mit Benjamin zur Wohnung der Familie Blocksberg zu gehen. Dort merkt der sprechende Elefant dann ziemlich schnell, dass Bibi Blocksberg wirklich eine Hexe ist, und zwar eine äußerst lebhafte.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Bibi Blocksberg",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Barbara Blocksberg",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Chefin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Pilot",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Kind",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Mann",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-20/benjamin-bluemchen-und-bibi-blocksberg",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8068",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/020.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

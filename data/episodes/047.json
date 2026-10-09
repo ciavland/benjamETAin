@@ -1,0 +1,76 @@
+{
+  "number": 47,
+  "title": "... als Gärtner",
+  "description": "Die Tante von Herrn Tierlieb möchte Urlaub machen. Und da muss sich jemand um ihren Garten kümmern: mit den Tomaten sprechen, die Blumen gießen und ganz besonders auf die Frösche im Teich aufpassen. Denn jede Nacht werden es weniger! Benjamin und Otto übernehmen das gerne. Ob sie auch herausfinden, was mit den Fröschen passiert?",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Nachbar",
+      "person": "Ahner, Helmut"
+    },
+    {
+      "role": "Tante Hilde",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-47/benjamin-bluemchen-als-gaertner",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8090",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

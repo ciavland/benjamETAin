@@ -1,0 +1,116 @@
+{
+  "number": 3,
+  "title": "Kampf dem Lärm",
+  "description": "Alles könnte so schön sein, wenn nur der ständige Lärm von der Zoostraße nicht wäre. Benjamin macht sich große Sorgen: Otto leidet unter starken Kopfschmerzen, die Tiere im Zoo sind ganz nervös und Zoodirektor Tierlieb verschüttet seinen Nachmittagskaffee. Damit alle wieder in Ruhe leben können, muss er etwas unternehmen.",
+  "release_year": 1979,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Kindergartentante",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Polizist",
+      "person": "Wesp, Peter"
+    },
+    {
+      "role": "Frau 1",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Frau 2",
+      "person": "Meissner, Gerda"
+    },
+    {
+      "role": "Frau 3",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Kind",
+      "person": "Bauer, Julia"
+    },
+    {
+      "role": "Mann",
+      "person": "Wesp, Peter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Udo Arndt"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-3/benjamin-bluemchen-kampf-dem-laerm",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=6368",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/003.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

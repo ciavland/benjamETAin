@@ -1,0 +1,104 @@
+{
+  "number": 45,
+  "title": "... als Zirkusclown",
+  "description": "Benjamin hat in Neustadt einen Zirkusclown getroffen. Und nun möchte er auch unbedingt einmal ein Clown sein! Karla Kolumna und Otto helfen ihm dabei. Er wird bunt geschminkt, trägt ein lustiges Jackett, eine bunte Schleife und einen Hut mit einer Blume. Ob „Benjamino Blümeroni\" im Zirkus dann auch einen großen Auftritt hat?",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Katja",
+      "person": "Rückert, Virpy"
+    },
+    {
+      "role": "Zirkusdirektor",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Clown Pippo",
+      "person": "Ziffer, Wolfgang"
+    },
+    {
+      "role": "Karlchen",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Feuerwehrmann",
+      "person": "Pritz, S."
+    },
+    {
+      "role": "Mutter",
+      "person": "Molitor, M."
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Leute",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Leute",
+      "person": "Gorges, Ingolf"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-45/benjamin-bluemchen-als-zirkusclown",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8088",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 165,
+  "title": "Der Paradiesvogel",
+  "description": "Der Zoo bekommt einen kurzzeitigen Gast: Papu Paradiesvogel. Er hat ein kunterbuntes Federkleid, lange Schwanzfedern und verhält sich so besonders, wie er aussieht. Benjamin verspricht, gut auf Papu aufzupassen. Doch dann büxt der Vogel aus, fliegt davon und Benjamin muss ihn wiederfinden. Eine Suche durch ganz Neustadt beginnt!",
+  "release_year": 2025,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-165/benjamin-bluemchen-der-paradiesvogel",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

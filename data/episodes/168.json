@@ -1,0 +1,23 @@
+{
+  "number": 168,
+  "title": "Die Elchkuh",
+  "description": "Im Neustädter Forst stoßen Benjamin und Otto auf eine Elchkuh und erschrecken sich vor dem Tier. Doch Karla Kolumna kann sie beruhigen, Elchkühe seien ungefährlich. Der Bürgermeister jedoch sieht das anders, sperrt den Wald ab und will die Elchkuh einfangen und wegbringen lassen. Das muss unbedingt verhindert werden!",
+  "release_year": 2026,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-168/benjamin-bluemchen-die-elchkuh",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

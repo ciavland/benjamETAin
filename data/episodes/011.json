@@ -1,0 +1,100 @@
+{
+  "number": 11,
+  "title": "… auf dem Mond",
+  "description": "In einer Sommernacht schaut Benjamin zum Mond. Er kann nicht glauben, dass Augen, Nase und Mund nur Gebirge und Täler sein sollen. Am liebsten würde er hinauffliegen und nachschauen. Da erfährt er von Otto, dass gerade Astronauten gesucht werden. Benjamin beschließt, sich zu melden. Ob er aber wirklich zum Mond fliegen wird?",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Leila",
+      "person": "Lagemann, Sigrid"
+    },
+    {
+      "role": "Heinzelchen",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Gulliver",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Frau Dr. Weiss",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Frau Professor Habernoll",
+      "person": "Elsholtz, Edith"
+    },
+    {
+      "role": "Portier",
+      "person": "Holtenau, Gerd"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-11/benjamin-bluemchen-auf-dem-mond",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3813",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/011.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

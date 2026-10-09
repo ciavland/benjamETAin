@@ -1,0 +1,23 @@
+{
+  "number": 160,
+  "title": "... als Höhlenforscher",
+  "description": "Benjamin überzeugt Otto davon, mit ihm noch einmal in die Neustädter Höhlen zu gehen. Der Berg, in dem diese sich befinden, soll früher ein Vulkan gewesen sein, aber es fehlt noch der Beweis dafür. Den wollen sie gemeinsam finden und dringen immer tiefer in den Untergrund vor. Dabei verlaufen sie sich im verzweigten Höhlensystem!",
+  "release_year": 2024,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-160/benjamin-bluemchen-als-hoehlenforscher",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

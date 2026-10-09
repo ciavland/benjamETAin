@@ -1,0 +1,64 @@
+{
+  "number": 61,
+  "title": "Otto ist krank",
+  "description": "Benjamin wartet schon eine ganze Weile auf Otto. Warum er wohl noch nicht da ist? Besorgt ruft er seine Mutter an. Sie erzählt ihm, dass Otto krank ist. Selbstverständlich besucht Benjamin seinen Freund sofort und muntert ihn auf, so gut er kann. Er singt für Otto und erzählt ihm Geschichten, damit er schnell wieder gesund wird.",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-61/benjamin-bluemchen-otto-ist-krank",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=291",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

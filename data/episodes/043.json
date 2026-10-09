@@ -1,0 +1,72 @@
+{
+  "number": 43,
+  "title": "... und die Autorallye",
+  "description": "Als Karla Kolumna erzählt, dass in Neustadt bald eine Autorallye stattfindet, ist Benjamin begeistert. Wärter Karl hat doch einen alten Lastwagen! Darin wohnt zwar eine Entenfamilie, aber die könnte ja einfach mitfahren. Der Wagen funktioniert noch und sieht mit etwas Farbe wieder richtig gut aus. Und die Rallye kann losgehen.",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Erna",
+      "person": "Meyka, Evelyn"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Hanft, Andreas"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-43/benjamin-bluemchen-und-die-autorallye",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8086",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

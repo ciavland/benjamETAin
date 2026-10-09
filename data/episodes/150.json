@@ -1,0 +1,23 @@
+{
+  "number": 150,
+  "title": "... auf Weltreise",
+  "description": "Benjamin möchte dem Herrn Bürgermeister beweisen, dass er auf der ganzen Welt Leute kennt. Deshalb begibt er sich mit Otto auf eine Weltreise und will überall Mitbringsel besorgen. Unterwegs sind die beiden mit Eddi Eddisons neuester Erfindung: dem fliegenden Eddi-Mobil. Sie haben aber nur eine Woche Zeit. Ob sie das schaffen?",
+  "release_year": 2022,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-150/benjamin-bluemchen-auf-weltreise",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

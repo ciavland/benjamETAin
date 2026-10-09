@@ -1,0 +1,23 @@
+{
+  "number": 152,
+  "title": "Schatzsuche im Zoosee",
+  "description": "Als die Ente Nat-Nat eine Goldmünze im Zoosee findet, vermuten Benjamin und Otto dort einen Schatz. Und weil Karla Kolumna darüber berichtet, kommen lauter Schatzsucher in den Zoo. Aber Direktor Tierlieb entscheidet, nur Benjamin und Otto dürfen danach tauchen. Gut, dass Eddi Eddison gerade eine Tauchglocke für zwei erfunden hat.",
+  "release_year": 2022,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-152/benjamin-bluemchen-schatzsuche-im-zoosee",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

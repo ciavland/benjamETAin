@@ -1,0 +1,96 @@
+{
+  "number": 73,
+  "title": "... und der Weihnachtsmann",
+  "description": "Benjamin ist traurig, weil Otto zu Weihnachten in die Berge fährt. Als er erfährt, dass es dort eine gewaltige Lawine gab und Otto vom Rodeln noch nicht zurück ist, will er dorthin. Bevor Benjamin losfährt, schreibt er aber schnell noch einen Brief an den Weihnachtsmann: Er wünscht sich, dass er ihm hilft, seinen Freund zu retten!",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Mutter",
+      "person": "Strobel, Sabine"
+    },
+    {
+      "role": "Vater",
+      "person": "Schenk, Udo"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Weihnachtsmann",
+      "person": "Branding, Heinz-Theo"
+    },
+    {
+      "role": "Edwin",
+      "person": "Müller, Tom"
+    },
+    {
+      "role": "Lucie",
+      "person": "Preinesberger, Nicola"
+    },
+    {
+      "role": "Baggervater",
+      "person": "Schmitz, Tilo"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Thomas Platt / Ulli Herzog"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-73/benjamin-bluemchen-und-der-weihnachtsmann-0",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=303",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

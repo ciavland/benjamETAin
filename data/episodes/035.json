@@ -1,0 +1,103 @@
+{
+  "number": 35,
+  "title": "... hat Zahnweh",
+  "description": "Nach dem Mittagessen ruhen sich alle im Zoo ein wenig aus. Doch plötzlich springt Benjamin auf, läuft unruhig herum, schmeißt den Rüssel hin und her und jammert steinerweichend. Otto und Wärter Karl kümmern sich sofort um ihn und finden heraus, was er hat: ganz schlimme Zahnschmerzen. Schnell holen sie Hilfe für Benjamin.",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Dr. Muffel",
+      "person": "Bauschulte, Friedrich W."
+    },
+    {
+      "role": "Moderator",
+      "person": "Pukaß, Joachim"
+    },
+    {
+      "role": "Herr Quatschmann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Anne",
+      "person": "Krahl, Bianca"
+    },
+    {
+      "role": "Frau Müller",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Herr Immerda",
+      "person": "von Ulmann, Joachim"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-35/benjamin-bluemchen-hat-zahnweh",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8079",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/035.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "number": 82,
+  "title": "Der weiße Elefant",
+  "description": "Nandu, der weiße Lieblingselefant des Maharadschas von Wischnipur, ist nach Neustadt gekommen – leider nicht freiwillig. Er wurde hergeschickt, weil er sich in eine Elefantendame verliebt hat, die dem Mahara-dscha nicht recht ist. In Neustadt soll er auf andere Gedanken kommen. Benjamin findet das gemein und hat eine Idee!",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Maharadscha",
+      "person": "Rode, Christian"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-82/benjamin-bluemchen-der-weisse-elefant",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=312",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

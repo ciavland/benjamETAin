@@ -1,0 +1,84 @@
+{
+  "number": 99,
+  "title": "Der Geheimgang",
+  "description": "Beim Versteckspielen im Zoo fällt Klein-Känga aus Versehen in einen unterirdischen Gang. Karla Kolumna klettert hinterher, um dem kleinen Känguru zu helfen. Doch herunterfallende Steine verschütten ihr den Rückweg. Benjamin und Otto hören Karlas Rufe, können sie aber nicht befreien. Sie müssen das andere Ende des Gangs finden!",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Hinki",
+      "person": "Pan, Michael"
+    },
+    {
+      "role": "Pinki",
+      "person": "Mannkopff, Andreas"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Pichler",
+      "person": "Herbst, Wilfried"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-99/benjamin-bluemchen-der-geheimgang",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8358",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

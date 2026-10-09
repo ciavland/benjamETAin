@@ -1,0 +1,112 @@
+{
+  "number": 21,
+  "title": "... als Weihnachtsmann",
+  "description": "Bald ist Weihnachten. Doch Zoodirektor Tierlieb kann seinen Tieren leider keine Geschenke machen. Da erfährt Benjamin zufällig, dass der Kaufhaus-Weihnachtsmann krank geworden ist. Vielleicht kann der liebste Elefant der Welt ihn vertreten? Das macht bestimmt Spaß und dem Zoo kann er auf diese Weise vielleicht auch helfen.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Weihnachtsmann",
+      "person": "Süssenguth, Richard"
+    },
+    {
+      "role": "Frau Paschulke",
+      "person": "Elsholtz, Edith"
+    },
+    {
+      "role": "Alte Frau",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Dieb",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Polizist",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Polizist",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Kind",
+      "person": "Bultmann, Wipke"
+    },
+    {
+      "role": "Warenhausdirektor",
+      "person": "Miedel, Klaus"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-21/benjamin-bluemchen-als-weihnachtsmann-0",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=6230",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/021.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

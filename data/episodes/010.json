@@ -1,0 +1,104 @@
+{
+  "number": 10,
+  "title": "… und das Schloss",
+  "description": "Benjamin hat große Sorgen. Der Neustädter Zoo ist für die vielen Tiere einfach zu klein. Da erreicht ihn die Nachricht, er habe ein Schloss geerbt. Doch was für eine Enttäuschung: Es ist eine richtige Bruchbude. Bald schon haben Benjamin und Otto aber eine gute Idee, wie es dem Zoo vielleicht doch noch nützlich sein kann.",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Briefträger",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Anwalt Schindelmeier",
+      "person": "Pukaß, Joachim"
+    },
+    {
+      "role": "Frau Klein",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Bahnhofsvorstand",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Kind",
+      "person": "Buschenhagen, Tatjana"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Eberhard Sengpiel"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-10/benjamin-bluemchen-und-das-schloss",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8061",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/010.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

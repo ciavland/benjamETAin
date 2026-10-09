@@ -1,0 +1,23 @@
+{
+  "number": 146,
+  "title": "... als Wikinger",
+  "description": "Benjamin und Otto sind im Wikinger-Fieber! Sie tragen Kostüme und bauen sich ein Drachenschiff. Zusammen mit Wilhelm und Wilhelmine, dem Neffen und der Nichte des Barons von Zwiebelschreck, wollen sie auf große Fahrt gehen. Doch von Karla Kolumna ernten sie dafür nur Spott. Werden die Freunde beweisen, dass sie echte Entdecker sind?",
+  "release_year": 2020,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-146/benjamin-bluemchen-als-wikinger",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

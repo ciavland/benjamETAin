@@ -1,0 +1,87 @@
+{
+  "number": 78,
+  "title": "… und der kleine Hund",
+  "description": "Am Zootor hat jemand einen kleinen Hund angebunden. Schnuffi heißt er. Benjamin schließt ihn sofort in sein Elefantenherz. Doch beim Gassigehen haben die beiden eine unangenehme Begegnung mit dem Bürgermeister. In seinem Auftrag bringt ein Hundefänger Schnuffi deshalb am nächsten Tag ins Tierheim. Was kann Benjamin jetzt bloß tun?",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Frau Krause",
+      "person": "Harpen, Constanze"
+    },
+    {
+      "role": "Schnuffi",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Sabinchen",
+      "person": "Scherff, Viola"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-78/benjamin-bluemchen-und-der-kleine-hund",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12110",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/078.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

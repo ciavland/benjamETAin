@@ -1,0 +1,23 @@
+{
+  "number": 163,
+  "title": "Die Drehorgel",
+  "description": "Benjamin und Otto helfen mal wieder Herrn Tierliebs Tante Hilde im Garten. Da stößt Benjamin auf eine Drehorgel in ihrem Keller. Er ist so begeistert davon, dass er sie ausleiht und damit durch Neustadt ziehen will. Er gibt Tante Hilde sein Elefantenehrenwort, dass nichts passiert. Doch dann ist die Drehorgel plötzlich weg!",
+  "release_year": 2025,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-163/benjamin-bluemchen-die-drehorgel",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

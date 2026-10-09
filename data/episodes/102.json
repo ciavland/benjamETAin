@@ -1,0 +1,95 @@
+{
+  "number": 102,
+  "title": "Das Pinguin-Ei",
+  "description": "Benjamin, Otto und Stella machen sich große Sorgen, weil die Pinguineltern krank geworden sind und sich nicht mehr um ihr Ei kümmern können. Da hat Stella eine Idee: Sie kommt in einem Faschingskostüm als Pinguin in den Zoo, um das Ei auszubrüten. Benjamin und Otto finden das toll! Aber Stellas Vater verbietet es ihr.",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Stella",
+      "person": "Bierstedt, Marie"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Stellas Mama",
+      "person": "Pukaß, Melanie"
+    },
+    {
+      "role": "Stellas Papa",
+      "person": "Maniscalco, Claudio"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-102/benjamin-bluemchen-das-pinguinei",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8998",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/102.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

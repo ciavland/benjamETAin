@@ -1,0 +1,23 @@
+{
+  "number": 121,
+  "title": "Die Fahrrad-Wette",
+  "description": "Benjamin, Otto und Stella stellen fest, in Neustadt gibt es zu wenig Radwege. Doch der Bürgermeister will keine neuen bauen lassen. Er behauptet, das Auto sei das Fahrzeug der Zukunft. Das sehen die Freunde anders und fordern einen Wettkampf: ihr Rad gegen sein Auto. Wenn sie gewinnen, muss er neue Radwege bauen. Top, die Wette gilt!",
+  "release_year": 2012,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-121/benjamin-bluemchen-die-fahrradwette",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

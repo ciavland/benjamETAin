@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/benjaminmeta/episode.schema.json",
+  "title": "Benjamin-Blümchen-Hörspielfolge",
+  "type": "object",
+  "required": ["number", "title", "description", "cast", "production", "tracks", "editions", "sources"],
+  "properties": {
+    "number": {"type": "integer", "minimum": 1},
+    "title": {"type": ["string", "null"]},
+    "description": {"type": ["string", "null"]},
+    "release_year": {"type": ["integer", "null"]},
+    "release_date": {"type": ["string", "null"], "format": "date"},
+    "duration_seconds": {"type": ["integer", "null"], "minimum": 1},
+    "cast": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["role", "person"],
+        "properties": {"role": {"type": "string"}, "person": {"type": "string"}},
+        "additionalProperties": false
+      }
+    },
+    "production": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["credit", "value"],
+        "properties": {"credit": {"type": "string"}, "value": {"type": "string"}},
+        "additionalProperties": false
+      }
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["position", "title"],
+        "properties": {"position": {"type": "integer", "minimum": 1}, "title": {"type": "string"}},
+        "additionalProperties": false
+      }
+    },
+    "editions": {"type": "array", "items": {"type": "object"}},
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "retrieved_at", "fields"],
+        "properties": {
+          "url": {"type": "string", "format": "uri"},
+          "retrieved_at": {"type": "string", "format": "date"},
+          "fields": {"type": "array", "items": {"type": "string"}}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

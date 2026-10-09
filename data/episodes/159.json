@@ -1,0 +1,23 @@
+{
+  "number": 159,
+  "title": "... als Robin Hood",
+  "description": "Der Bürgermeister will Ringo Rotfuchs an eine Dame abgeben, die ihm dafür viel Geld bietet. Da Zoodirektor Tierlieb nicht da ist, muss Benjamin das verhindern! Er flüchtet mit Ringo, Otto und Karl in den nahen Wald und versteckt sich wie Robin Hood. Doch der Bürgermeister nimmt die Verfolgung auf, wie der Sheriff von Nottingham!",
+  "release_year": 2024,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-159/benjamin-bluemchen-als-robin-hood",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "number": 4,
+  "title": "... in Afrika",
+  "description": "Otto kann nicht glauben, dass Benjamin ein Afrikanischer Elefant ist. Doch Zoodirektor Tierlieb erzählt ihnen, dass Benjamins Großeltern tatsächlich aus Tanganjika in Afrika stammen. Er schenkt den beiden Freunden sogar eine Reise dorthin, denn der liebste Elefant der Welt möchte seine Heimat nun unbedingt kennenlernen.",
+  "release_year": 1979,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Elefantenkuh",
+      "person": "Meissner, Gerda"
+    },
+    {
+      "role": "Sekretärin",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Frau",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Jäger",
+      "person": "Hagen, Till"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Udo Arndt"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-4/benjamin-bluemchen-afrika",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3815",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/004.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

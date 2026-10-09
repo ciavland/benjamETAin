@@ -1,0 +1,76 @@
+{
+  "number": 87,
+  "title": "Das Laternenfest",
+  "description": "Zoodirektor Tierlieb kann kaum noch Futter für die Tiere kaufen! Da bringt Benjamin der kommende Neustädter Laternenumzug auf eine Idee: Nicht nur Kinder, sondern auch Zootiere sollten dabei sein! Gemeinsam könnte man Spenden für den Zoo sammeln. Doch die Feuerwehr verbietet, dass die Tiere Lampions mit brennenden Kerzen tragen. Was nun?",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zoodirektor Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-87/benjamin-bluemchen-das-laternenfest",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3205",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

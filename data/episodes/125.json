@@ -1,0 +1,23 @@
+{
+  "number": 125,
+  "title": "... und die Zirkusponys",
+  "description": "Zirkus Leporello ist zurück in Neustadt! Doch der Direktor und seine Enkelin Fiorella haben Sorgen: Es kommen kaum noch Zuschauer. Der Zirkus hat nämlich keine große Attraktion mehr zu bieten. Natürlich wollen Benjamin und seine Freunde helfen. Ob die kürzlich angeschafften Ponys vielleicht ein paar Kunststücke können?",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-125/benjamin-bluemchen-und-die-zirkusponys",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

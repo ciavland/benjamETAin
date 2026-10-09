@@ -1,0 +1,84 @@
+{
+  "number": 63,
+  "title": "Der Computer",
+  "description": "Benjamin will in Neustadt Zuckerstückchen holen, doch Herr Süß, der Händler, hat keine mehr. Es gibt in seinem Laden aber noch etwas anderes, was Benjamin interessiert: einen Computer. Weil Herr Süß begeistert erzählt, dass sich Computer nie irren, will Benjamin sofort auch einen für den Zoo besorgen. Ob das Herrn Tierlieb gefällt?",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Herr Schmeichler",
+      "person": "Miedel, Klaus"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-63/benjamin-bluemchen-der-computer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=293",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

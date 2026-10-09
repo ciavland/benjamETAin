@@ -1,0 +1,23 @@
+{
+  "number": 154,
+  "title": "... in Italien",
+  "description": "Neustadts Reporterin Karla Kolumna ist krank und kann ihre geplante Reisereportage über Italien nicht machen. Benjamin und Otto springen gerne für sie ein, weil sie so auch ihre Freundin Stella Stellini besuchen können. Doch dann wird ihnen die Kamera mit allen Bildern gestohlen und eine turbulente Jagd nach dem Dieb beginnt!",
+  "release_year": 2023,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-154/benjamin-bluemchen-italien",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

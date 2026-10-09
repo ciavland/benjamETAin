@@ -1,0 +1,88 @@
+{
+  "number": 36,
+  "title": "... wird verhext",
+  "description": "Die Sonne scheint, die Vögel singen, Otto ist da – doch Benjamin ist wohl eine Laus über die Leber gelaufen. Er hat schlechte Laune und will seine Ruhe. So ist der liebste Elefant der Welt doch sonst nicht! Nichts und niemand scheint ihn aufheitern zu können. Aber vielleicht gelingt es Bibi Blocksberg, der kleinen Hexe?",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bibi Blocksberg",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Otto Oberschlau",
+      "person": "Elias, Buddy"
+    },
+    {
+      "role": "Clown Govi",
+      "person": "Mannkopff, Andreas"
+    },
+    {
+      "role": "Moderator",
+      "person": "Pukaß, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-36/benjamin-bluemchen-wird-verhext",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8080",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 122,
+  "title": "... als Polizist",
+  "description": "Wachtmeister Krause ist so überarbeitet, er hätte gerne mal einen Tag frei. Kein Problem! Benjamin, Otto und Stella springen für ihn ein. Sie bekommen alles, was ein Polizist so braucht und finden ganz neue Wege, um Falschparker und Raser zur Vernunft zu bringen! Ob sie auch einen lange gesuchten Dieb überführen können?",
+  "release_year": 2012,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-122/benjamin-bluemchen-als-polizist",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

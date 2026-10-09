@@ -1,0 +1,104 @@
+{
+  "number": 16,
+  "title": "... träumt",
+  "description": "Heute ist ein besonders schöner Tag. Kein Wunder, dass der liebste Elefant der Welt so gute Laune hat. Nur Otto kommt traurig aus der Schule. Zum Trost darf er sich bei Benjamin ankuscheln. Es dauert nicht lange, da werden die beiden ganz müde und schlafen ein. In ihrem gemeinsamen Traum erleben sie ein fantastisches Abenteuer.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Junger Elefant",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Zoll-Elefant",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Frack-Elefant",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Karo-Elefant",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Blauer Elefant",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Orangener Elefant",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Elefantin",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Ottos Mathematiklehrer",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-16/benjamin-bluemchen-traeumt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8065",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/016.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

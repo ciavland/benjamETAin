@@ -1,0 +1,23 @@
+{
+  "number": 126,
+  "title": "Der Zoo-Kindergarten",
+  "description": "Weil die Neustädter Kindergärten in den Sommerferien alle schließen, haben viele Kinder ein Problem: Wo sollen sie hingehen, wenn ihre Eltern arbeiten müssen? Ganz einfach, denkt sich Benjamin, in den Zoo natürlich! Er will einen Ferien-Kindergarten aufmachen. Aber dafür muss er eine Prüfung bestehen. Und die ist nicht so einfach!",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-126/benjamin-bluemchen-der-zookindergarten",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

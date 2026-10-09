@@ -1,0 +1,80 @@
+{
+  "number": 83,
+  "title": "… als Gespenst",
+  "description": "Auf Burg Eintracht soll es ein richtiges Gespenst geben! Neugierig machen sich Benjamin und Otto auf den Weg. Dort erfahren sie aber, dass Kasimir, das kleine Burggespenst, nicht mehr schweben und durch Wände gehen kann. Der Burgverwalter musste alle Gespensterführungen absagen. Ob das Elefantengespenst und sein Freund einspringen dürfen?",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler - in",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Frau Krause",
+      "person": "Wellmann, Ingeborg"
+    },
+    {
+      "role": "Herr von Knobloch",
+      "person": "Bussinger, Hans Werner"
+    },
+    {
+      "role": "Reiner Keiner",
+      "person": "Rahn, Manfred"
+    },
+    {
+      "role": "Heiner Keiner",
+      "person": "Pan, Michael"
+    },
+    {
+      "role": "Kasimir",
+      "person": "von Jascheroff, Mario"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-83/benjamin-bluemchen-als-gespenst",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=313",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

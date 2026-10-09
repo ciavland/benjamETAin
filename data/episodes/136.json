@@ -1,0 +1,23 @@
+{
+  "number": 136,
+  "title": "Spuk im Zoo",
+  "description": "Benjamin und Otto staunen, als Kasimir, das Gespenst von Burg Eintracht, in den Zoo schwebt. Die Burg wird renoviert und er braucht eine Unterkunft auf Zeit. Kein Problem, meint Benjamin! Von da an geistern sie zu dritt durch den Zoo und erschrecken dabei versehentlich Tiere wie Besucher. Herr Tierlieb findet das nicht lustig.",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-136/benjamin-bluemchen-spuk-im-zoo",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "number": 107,
+  "title": "… in Schottland",
+  "description": "Benjamin, Otto und Stella fahren nach Schottland. Sie besuchen die MacDonnellys, Freunde von Stellas Eltern. Doch die beiden sind betrübt, denn der Dudelsack von Mister MacDonnelly ist kaputt. Nun kann er sein selbst komponiertes Stück nicht mehr auf einem Dudelsack-Festival aufführen. Ob Benjamin und seine Freunde helfen können?",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Stewardess",
+      "person": "T. Haas"
+    },
+    {
+      "role": "Mr. MacDermott",
+      "person": "A. Lutter"
+    },
+    {
+      "role": "Mr. MacDonnelly",
+      "person": "R. Kuhnert"
+    },
+    {
+      "role": "Mrs. MacDonnelly",
+      "person": "H. Bartholomäus"
+    },
+    {
+      "role": "Butler Aidan",
+      "person": "L. Riedel"
+    },
+    {
+      "role": "Ungeheuer Nessie",
+      "person": "B. Ratthey"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-107/benjamin-bluemchen-schottland",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=10515",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/107.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 155,
+  "title": "... und der Roboter",
+  "description": "Als ein kleiner Roboter auf die Zoowiese rollt und unverständliche Worte spricht, sind Benjamin und Otto überzeugt, dass er eine geheime Erfindung ist, die sie verstecken müssen. Weil sie herausfinden wollen, wem er gehört, ziehen sie die Neugierde einiger Leute auf sich und es beginnt ein Katz-und-Maus-Versteckspiel im Zoo!",
+  "release_year": 2023,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-155/benjamin-bluemchen-und-der-roboter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

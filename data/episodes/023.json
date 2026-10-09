@@ -1,0 +1,99 @@
+{
+  "number": 23,
+  "title": "... als Koch",
+  "description": "Benjamin findet, dass die Besucher im Zoo auch gutes Essen bekommen sollten. Vielleicht könnte er sogar selbst kochen – in seinem eigenen Restaurant? Zoodirektor Tierlieb gefällt die Idee. Das alte Affenhaus wäre ideal. Wenn alle im Zoo mithelfen, kann „Benjamins Zoorestaurant“ schon bald eröffnet werden. Ob es ein Erfolg wird?",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Frau Glotz",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Geschäftsführer",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Frl. Petra",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Kind",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-23/benjamin-bluemchen-als-koch",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8070",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/023.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

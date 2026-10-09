@@ -1,0 +1,96 @@
+{
+  "number": 26,
+  "title": "... als Bademeister",
+  "description": "An einem heißen Sommertag gelingt es dem Besitzer des neuen Strandbades, Benjamin als Besucher-Attraktion zu engagieren. Doch so gut gefällt es ihm als außergewöhnlicher Bademeister nicht. Zudem sorgt sich der liebste Elefant der Welt darum, was aus dem anderen Schwimmbad in Neustadt wird, denn dort geht niemand mehr baden.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Rudi Rumpel",
+      "person": "Schröder, Jochen"
+    },
+    {
+      "role": "Frau Krause",
+      "person": "Lauenstein, Tilly"
+    },
+    {
+      "role": "Kassierer",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Kind",
+      "person": "Rückert, Virpy"
+    },
+    {
+      "role": "Mutter",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-26/benjamin-bluemchen-als-bademeister",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8072",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

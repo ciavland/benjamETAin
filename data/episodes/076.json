@@ -1,0 +1,84 @@
+{
+  "number": 76,
+  "title": "… als Förster",
+  "description": "Durch den Neustädter Forst soll eine Straße gebaut werden! Oberförster Waldmann ist deshalb sehr beunruhigt. Er sorgt sich um all die Tiere im Wald und möchte etwas dagegen unternehmen. Doch dann wird er krank. Da bieten Benjamin und Otto sich ihm als Aushilfsförster an. Ob es ihnen gelingt, den Bau der Straße zu verhindern?",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Oberförster",
+      "person": "Heyne, Helmut"
+    },
+    {
+      "role": "LKW-Fahrer",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-76/benjamin-bluemchen-als-foerster",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12106",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

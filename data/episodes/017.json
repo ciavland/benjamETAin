@@ -1,0 +1,108 @@
+{
+  "number": 17,
+  "title": "Der Skiurlaub",
+  "description": "Benjamin möchte unbedingt mit in den Skiurlaub. Sein Freund Otto findet einen Elefanten auf Skiern aber einfach zu komisch. In den Bergen will Benjamin ihm dann beweisen, dass auch er Ski fahren kann. Und die erste Abfahrt klappt wirklich gut. Doch Otto und die anderen Wintergäste beunruhigt plötzlich etwas ganz anderes.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Ottos Mutter",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Ottos Vater",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Retter",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Schaffner",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Mutter",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-17/benjamin-bluemchen-der-skiurlaub",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8066",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/017.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

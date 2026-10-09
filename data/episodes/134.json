@@ -1,0 +1,23 @@
+{
+  "number": 134,
+  "title": "Abschied von Stella",
+  "description": "Die Stellinis ziehen zurück nach Italien. Benjamin und Otto wollen ihre Freundin Stella beim Umzug begleiten und ihre Möbel mit dem Zoolaster nach San Giovanni bringen. Karla Kolumna schließt sich ihnen an und die vier erleben eine abenteuerliche Reise in den Süden, auf der sie auch eine neue Freundin für Stella kennenlernen.",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-134/benjamin-bluemchen-abschied-von-stella",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

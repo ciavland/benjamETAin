@@ -1,0 +1,103 @@
+{
+  "number": 68,
+  "title": "... als Taxifahrer",
+  "description": "Paule Plattfuß, der Taxifahrer, ist völlig überarbeitet. Benjamin springt gerne für ihn ein. Gemeinsam mit Otto baut er aus Zoodirektor Tierliebs Sofa, Wärter Karls Rasenmäher und alten Kinderwagenrädern das erste Elefanten-Taxi der Welt. Schon meldet sich die Taxi-Zentrale über das Funkgerät: Mit einer Eilfahrt geht es los!",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Susi",
+      "person": "Haase, S."
+    },
+    {
+      "role": "Plattfuss",
+      "person": "Melikyan, Krikor"
+    },
+    {
+      "role": "Wuff",
+      "person": "Ahner, Helmut"
+    },
+    {
+      "role": "Polizist",
+      "person": "Kursawe, Dieter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly/Ulf Thiem"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-68/benjamin-bluemchen-als-taxifahrer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=298",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/68.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

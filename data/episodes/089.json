@@ -1,0 +1,72 @@
+{
+  "number": 89,
+  "title": "Der rote Luftballon",
+  "description": "Im Zoo fliegt ein roter Luftballon über Benjamin und Otto hinweg. Es ist sogar eine Karte daran – von Aljoscha, einem russischen Jungen. Er wünscht sich einen neuen Pullover, Turnschuhe und einen Brieffreund. Benjamin und Otto wollen ihm helfen. Als Karla Kolumna darüber schreibt, wollen noch viel mehr Neustädter etwas für ihn tun",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Großväterchen",
+      "person": "Teuscher, Pjotr"
+    },
+    {
+      "role": "Aljoscha",
+      "person": "Vogdt, F."
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-89/benjamin-bluemchen-der-rote-luftballon",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3207",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

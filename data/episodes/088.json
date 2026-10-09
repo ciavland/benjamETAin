@@ -1,0 +1,68 @@
+{
+  "number": 88,
+  "title": "… als Cowboy",
+  "description": "Benjamin und Otto spielen auf der Zoowiese Cowboy. Mit seinem Rüssel kann Benjamin wunderbar Lasso werfen. Dabei wird er von Mister Mike Donald aus Amerika beobachtet, der Benjamin und Otto auf seine Ranch einlädt. Und dort beginnt ein richtiges Cowboy-Abenteuer mit Rinderdieben, Indianern und einem süßen Kälbchen.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Katja"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zoodirektor Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-88/benjamin-bluemchen-als-cowboy",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3206",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

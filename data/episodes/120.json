@@ -1,0 +1,23 @@
+{
+  "number": 120,
+  "title": "Der Zeltausflug",
+  "description": "Benjamin und Stella haben noch nie in freier Natur gezeltet. Deshalb machen Otto und Herr Tierlieb mit ihnen einen Zeltausflug. Mit Rucksäcken geht es auf Wanderschaft. Am ersten Rastplatz, einer kleinen Lichtung im Wald, lernen sie den Frischling Grunzi kennen. Als dieser später in Gefahr gerät, greifen die Freunde ein!",
+  "release_year": 2012,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-120/benjamin-bluemchen-der-zeltausflug",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

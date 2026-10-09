@@ -1,0 +1,48 @@
+{
+  "number": 71,
+  "title": "Alle meine Freunde",
+  "description": "1. Alle meine Freunde 3:50 • 2. Benjamin, der Wetterelefant 3:12 • 3. Benjamin, der Gärtner 3:45 • 4. Zoodirektor Benjamin 2:50 • 5. Piratenlied 3:33 • 6. Schnuff, schnuff, schnuff, die Eisenbahn 2:40 • 7. Schatzfieber 3:10 • 8. Benjamin, der Bademeister 3:25 • 9. Der Doktor-Elefant 3:33 • 10. Benjamin, der Starreporter 2:49 11. Sicher zur Schule 3:15 • 12. Benjamin und der Computer 3:00",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-71/benjamin-bluemchen-alle-meine-freunde",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12039",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

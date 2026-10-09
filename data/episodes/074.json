@@ -1,0 +1,60 @@
+{
+  "number": 74,
+  "title": "… singt Weihnachtslieder",
+  "description": "1. Zoowinter 3:20 • 2. Kling, Glöckchen, klingelingeling 2:35 • 3. Warten auf Weihnachten 3:28 • 4. Leise rieselt der Schnee 3:27 • 5. Das Wunschzettel-Lied 2:57 • 6. Ihr Kinderlein, kommet 3:20 • 7. Eisbärtanz 2:32 8. O Tannenbaum 2:30 • 9. Benjamins Schlittenfahrt 3:57 • 10. O du fröhliche 3:10 • 11. Weihnachten im Zoo 3:15 • 12. Stille Nacht 4:00",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-74/benjamin-bluemchen-singt-weihnachtslieder",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12044",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

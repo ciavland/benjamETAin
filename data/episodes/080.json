@@ -1,0 +1,76 @@
+{
+  "number": 80,
+  "title": "Die Neue Zooheizung",
+  "description": "Mitten im Mai hat es geschneit. Die Zootiere bibbern vor Kälte, weil die Zooheizung kaputt ist. Benjamin und Karl reparieren sie notdürftig, aber sie qualmt so fürchterlich, dass das Zebrababy Husten bekommt. Unerwartet verspricht der Bürgermeister dem Zoo eine neue Heizung. Doch Karla Kolumna ahnt, dass da etwas nicht stimmt.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Bruno Brenner",
+      "person": "Gauß, Helmut"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-80/benjamin-bluemchen-die-neue-zooheizung",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12111",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

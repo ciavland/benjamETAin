@@ -1,0 +1,115 @@
+{
+  "number": 32,
+  "title": "Die Verkehrsschule",
+  "description": "Benjamin fühlt sich heute gar nicht wohl im Zoo. Es ist viel zu voll. Als ihm auch noch ein Junge mit seinem Roller über den Fuß fährt, hat Benjamin genug. Er stellt Verkehrsschilder und Ampeln auf. Doch die Zoobesucher beschweren sich: Die Verkehrszeichen müssen wieder weg. Aber wohin? Da hat jemand eine richtig gute Idee!",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Kiki",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Schubert, Anja"
+    },
+    {
+      "role": "Kind",
+      "person": "Primel, Katja"
+    },
+    {
+      "role": "Kind",
+      "person": "Elias, Oliver"
+    },
+    {
+      "role": "Polizist",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-32/benjamin-bluemchen-die-verkehrsschule",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8077",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/032.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

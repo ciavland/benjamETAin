@@ -1,0 +1,108 @@
+{
+  "number": 49,
+  "title": "... als Müllmann",
+  "description": "Benjamin ist empört darüber, wie viel Abfall Wärter Karl an einem einzigen Tag im Zoo aufsammeln muss. Was die Leute alles einfach so wegwerfen! Vieles davon könnte man bestimmt noch gebrauchen, überlegt Benjamin. Und dann hat der liebste Elefant der Welt eine großartige Idee. Auch Otto und Karla Kolumna sind sofort begeistert.",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Herr Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Frau Schneider",
+      "person": "Wellmann, Ingeborg"
+    },
+    {
+      "role": "Kind",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Kind",
+      "person": "Jahn, Markus"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Frau",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Mann",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Burghard Genz"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-49/benjamin-bluemchen-als-muellmann",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8092",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

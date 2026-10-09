@@ -1,0 +1,111 @@
+{
+  "number": 15,
+  "title": "… im Urlaub",
+  "description": "Benjamin hat eine Reise für zwei Personen nach Italien gewonnen! Klar, dass er seinen Freund Otto mitnimmt. Beide freuen sich riesig auf den Urlaub am Meer und die ersten Tage dort sind herrlich. Aber dann sehnt sich Benjamin nach einer Aufgabe. Als er den Badewärter vertritt, sucht eine Frau plötzlich ihren kleinen Sohn.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Ottos Mutter",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Schaffner",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Eisverkäufer",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Postbote",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Kameramann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Tonmann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Mann",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Badewärter",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-15/benjamin-bluemchen-im-urlaub",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8064",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/015.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

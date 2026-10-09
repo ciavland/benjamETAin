@@ -1,0 +1,88 @@
+{
+  "number": 64,
+  "title": "… als Butler",
+  "description": "In der Zeitung liest Benjamin davon, dass der Graf von Meisenheim einen Butler sucht. Er stellt sich bei ihm vor und darf sein Können beweisen. Geschickt serviert er den Tee und deckt den Tisch für ein Abendessen mit vornehmen Gästen. Der Graf ist sehr zufrieden. Doch Hulda Hurtig, die Köchin, scheint den neuen Butler nicht zu mögen.",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Graf von Meisenheim",
+      "person": "Schoenfelder, Friedrich"
+    },
+    {
+      "role": "Hulda Hurtig",
+      "person": "Wellmann, Ingeborg"
+    },
+    {
+      "role": "Kind",
+      "person": "Haase, S."
+    },
+    {
+      "role": "Kassiererin",
+      "person": "Werth, Eva-Maria"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulf Tiehm"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-64/benjamin-bluemchen-als-butler",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=294",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

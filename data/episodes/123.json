@@ -1,0 +1,23 @@
+{
+  "number": 123,
+  "title": "… in der Spielzeugfabrik",
+  "description": "Benjamin, Otto und Stella besuchen Erfinder Eddi Eddison in der Spielzeugfabrik. Dort dürfen sie Spielzeug testen. Benjamin übernimmt Eddis neueste Erfindungen: die Mäxchen. Das sind kleine Aufziehfiguren. Doch beim Spielen wird Benjamin müde – und plötzlich ist er so klein wie die Mäxchen und die Figuren beginnen zu reden!",
+  "release_year": 2013,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-123/benjamin-bluemchen-der-spielzeugfabrik",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

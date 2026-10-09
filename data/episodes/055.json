@@ -1,0 +1,87 @@
+{
+  "number": 55,
+  "title": "... und die Astrofanten",
+  "description": "Benjamin träumt, dass er mit Otto auf der Zoowiese sitzt – und plötzlich ungewöhnliche Stimmen hört. Wenig später tauchen zwei winzig kleine blaue Elefanten auf, die Mini-Goldfischgläser auf dem Kopf haben. Sie sind mit so etwas wie einer fliegenden Schildkröte von einem anderen Planeten kommen. Doch was wollen sie in Neustadt?",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Mirx Millimeter",
+      "person": "Kursawe, Dieter"
+    },
+    {
+      "role": "Murx Mikromü",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Polizist",
+      "person": "Herzog, Alexander"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-55/benjamin-bluemchen-und-die-astrofanten",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=275",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/055.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "number": 46,
+  "title": "... hilft den Tieren",
+  "description": "Frau Fabian ist beunruhigt, weil ihr Hund Wasti verschwunden ist. Benjamin und Otto helfen ihr beim Suchen, doch Wasti ist nicht zu finden. Da bleibt nur der Weg zum Tierheim: Dort sehen sie so viele traurige Tiere, dass Benjamin beschließt, auch denen zu helfen. Und wenn Wasti gefunden wird, bringt man ihn hier sicher zuerst hin!",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Doktor Heuler",
+      "person": "Prüter, Eberhard"
+    },
+    {
+      "role": "Frau Fabian",
+      "person": "Volk-Odemar, Hilde"
+    },
+    {
+      "role": "Eismann",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Mann",
+      "person": "Gorges, Ingolf"
+    },
+    {
+      "role": "Mann",
+      "person": "Pritz, S."
+    },
+    {
+      "role": "Leute",
+      "person": "Molitor, M."
+    },
+    {
+      "role": "Leute",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Mädchen",
+      "person": "Primel, Antje"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-46/benjamin-bluemchen-hilft-den-tieren",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8089",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

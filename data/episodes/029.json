@@ -1,0 +1,92 @@
+{
+  "number": 29,
+  "title": "... auf dem Rummel",
+  "description": "Auf den Rummelplatz will Benjamin eigentlich nicht. Doch als Otto erzählt, dass es dort Zuckerwatte gibt, kann er nicht schnell genug dorthin kommen. Plötzlich macht ihm alles großen Spaß. Da treffen sie auf eine alte Frau, die verzweifelt ihren kleinen Enkel sucht. Klar, dass Benjamin und Otto ihr helfen, den Jungen zu finden.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Paulchen",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Kettenkarussellfrau",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Geisterbahnbesitzer",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Märchenbahnbesitzer",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Zuckerwatteverkäufer",
+      "person": "Prüter, Eberhard"
+    },
+    {
+      "role": "Riesenradfrau",
+      "person": "Pein, Sigrid"
+    },
+    {
+      "role": "Passantin",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Oma",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-29/benjamin-bluemchen-auf-dem-rummel",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=4377",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

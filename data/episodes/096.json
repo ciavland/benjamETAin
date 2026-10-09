@@ -1,0 +1,64 @@
+{
+  "number": 96,
+  "title": "Der Bananendieb",
+  "description": "Benjamin und Otto gehen ins Neustädter Kaufhaus, um der Drehorgelmusik von Kurbelklaus zuzuhören. Das niedliche Äffchen Ali Baba tanzt dazu. Dem Leiter der Obstabteilung gefällt das jedoch gar nicht. Und als über Nacht Bananen verschwunden sind, beschuldigt er das Äffchen. Die beiden Freunde wollen beweisen, dass Ali Baba es nicht war!",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-96/benjamin-bluemchen-der-bananendieb",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=7255",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

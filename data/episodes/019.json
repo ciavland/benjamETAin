@@ -1,0 +1,115 @@
+{
+  "number": 19,
+  "title": "… als Fußballstar",
+  "description": "Obwohl Zoowärter Karl Torwart beim Neustädter SC ist, interessiert sich Benjamin einfach nicht für Fußball. Doch weil sein Freund Otto das heutige Fußballspiel unbedingt sehen möchte, kommt er mit ins Stadion. Es läuft nicht gut für Neustadt und da wird Karl auch noch verletzt. Ob Benjamin vielleicht als Torwart einspringen soll?",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Rudi Rundleder",
+      "person": "Elias, Buddy"
+    },
+    {
+      "role": "Funktionär",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Fussballer",
+      "person": "Kreklau, Rüdiger"
+    },
+    {
+      "role": "Fussballer",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Schiedsrichter",
+      "person": "Pukaß, Joachim"
+    },
+    {
+      "role": "Sanitäter",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Kind",
+      "person": "Adler, Claudia"
+    },
+    {
+      "role": "Kind",
+      "person": "Elias, Oliver"
+    },
+    {
+      "role": "Spieler",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Leute",
+      "person": "Kreklau, Rüdiger"
+    },
+    {
+      "role": "Leute",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-19/benjamin-bluemchen-als-fussballstar",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8067",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/019.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 158,
+  "title": "Der Fußball-Pokal",
+  "description": "Ganz Neustadt ist im Fußballfieber, auch Benjamin und alle Zoobewohner! Heute ist das große Fußball-Finale und im Zoo ist ein Fest geplant, um es gemeinsam live anzusehen. Die Vorbereitungen laufen, da bekommt Benjamin durch einen Zufall den Pokal für das Endspiel zur Verwahrung. Als dieser verschwindet, ist die Aufregung groß!",
+  "release_year": 2024,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-158/benjamin-bluemchen-der-fussballpokal",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

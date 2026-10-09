@@ -1,0 +1,30 @@
+{
+  "number": 137,
+  "title": "Ein Törööö für alle Fälle",
+  "description": "Benjamin wird früh morgens von Neustadts rasender Reporterin Karla Kolumna geweckt. Freudig erklärt sie, dass sie ihn für eine Reportage begleiten wird. Sie möchte darüber berichten, was er eigentlich den ganzen Tag lang so macht. Als Otto dazukommt, geht es auch schon los mit drei tollen Abenteuern und ganz vielen Törööös!",
+  "release_year": 2017,
+  "release_date": "2017-11-10",
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-137/benjamin-bluemchen-ein-toeroeoeoe-fuer-alle-faelle",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.qobuz.com/de-de/album/folge-137-ein-torooo-fur-alle-falle-benjamin-blumchen/0190295720445",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "release_date",
+        "release_year"
+      ]
+    }
+  ]
+}

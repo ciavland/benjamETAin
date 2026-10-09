@@ -1,0 +1,84 @@
+{
+  "number": 33,
+  "title": "Das Osterfest",
+  "description": "Weil Zoodirektor Tierlieb traurig ist, möchte Benjamin ihn aufmuntern. Ein Osterfest im Zoo wäre vielleicht eine gute Idee. Schon beginnen Benjamin und seine Freunde, ganz viele Ostereier für die Zoobesucher zu bemalen. Und Benjamin plant ein Überraschungsgeheimnis für Herrn Tierlieb. Ob ihm das alles auch gefallen wird?",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Kiki",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Müller, H.-H."
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-33/benjamin-bluemchen-das-osterfest",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=253",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

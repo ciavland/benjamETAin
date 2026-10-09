@@ -1,0 +1,23 @@
+{
+  "number": 142,
+  "title": "Das besondere Osterei",
+  "description": "Der Bürgermeister bittet Benjamin um Hilfe, denn der Maharadscha von Wischnipur besucht Neustadt, um typische Ostertraditionen kennenzulernen. Kurzerhand packen alle aus dem Zoo mit an, bemalen Ostereier, backen einen Hefezopf und organisieren einen Osterumzug. Benjamin bastelt ein ganz besonderes Ei. Doch das wird gestohlen!",
+  "release_year": 2019,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-142/benjamin-bluemchen-das-besondere-osterei",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 153,
+  "title": "Das große Gewitter",
+  "description": "Der Bürgermeister will den Titel „tierliebster Bürgermeister des Landes“ bekommen. Benjamin soll ihm dabei helfen. Ein schlechter Witz, findet er. Da zieht ein Gewitter auf und Benjamin gewährt dem Bürgermeister Unterschlupf in seinem Haus. Das Donnerwetter ist beiden nicht geheuer – das führt zu einer erstaunlichen Annäherung.",
+  "release_year": 2023,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-153/benjamin-bluemchen-das-grosse-gewitter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

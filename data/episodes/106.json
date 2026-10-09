@@ -1,0 +1,102 @@
+{
+  "number": 106,
+  "title": "Das Spaghetti-Eis-Fest",
+  "description": "Heimlich fahren Benjamin, Otto und Karla Kolumna mit Stella zu ihrer Oma nach Italien. Sie wollen die alte Spaghetti-Eis-Maschine von Onkel Giuseppe nach Neustadt bringen – als Geburtstagsüberraschung für Stellas Vater! Aber die Maschine ist leider verschwunden. Gemeinsam machen sich Benjamin und seine Freunde auf eine turbulente Suche.",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 2520,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Nonna Clara",
+      "person": "M. Bielenstein"
+    },
+    {
+      "role": "Onkel Giuseppe",
+      "person": "L. Carrara"
+    },
+    {
+      "role": "Herr Stellini",
+      "person": "C. Maniscalco"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Signore Corelli",
+      "person": "C. Gaul"
+    },
+    {
+      "role": "Schaffner",
+      "person": "H. Gauß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-106/benjamin-bluemchen-das-spaghettieisfest",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=10249",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/106.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

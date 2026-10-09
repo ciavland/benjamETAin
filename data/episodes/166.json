@@ -1,0 +1,23 @@
+{
+  "number": 166,
+  "title": "Im Football-Fieber",
+  "description": "Benjamin und Otto sollen dem ehemaligen Footballstar Bernie Ballmeister aus Amerika einen Ball als Glücksbringer überbringen. Er ist nun Trainer in Neustadt, doch leider ist es ein anderes Neustadt, in dem er wohnt. Und das müssen die beiden mit Karla Kolumna erstmal finden. Aber dann ist da auch noch jemand hinter dem Ball her!",
+  "release_year": 2025,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-166/benjamin-bluemchen-im-footballfieber",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

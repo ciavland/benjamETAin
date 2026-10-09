@@ -1,0 +1,46 @@
+{
+  "number": 109,
+  "title": "... als Baggerfahrer",
+  "description": "Da staunen Benjamin, Otto und Stella: Ein Transporter bringt neue Tiere für den Zoo. Aber viel zu früh – die Gehege sind noch nicht fertig! Und Karl ist im Urlaub. Was nun? Ganz einfach: Die drei Freunde bauen selbst drauflos. Leider hat der Bürgermeister etwas dagegen. Aber Benjamin lässt sich das Baggern nicht verbieten!",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-109/benjamin-bluemchen-als-baggerfahrer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=11384",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

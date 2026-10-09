@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f1e7">
+    <meta name="description" content="Durchsuchbare Metadaten zu allen regulären Benjamin-Blümchen-Hörspielen.">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <title>BenjaminMeta — Hörspiel-Metadaten</title>
+  </head>
+  <body>
+    <header class="hero">
+      <nav aria-label="Hauptnavigation">
+        <a class="brand" href="./" aria-label="BenjaminMeta Startseite">
+          <span class="brand-mark" aria-hidden="true">B</span>
+          <span>BenjaminMeta</span>
+        </a>
+        <div class="nav-links">
+          <a href="#katalog">Katalog</a>
+          <a href="./api/">API</a>
+        </div>
+      </nav>
+
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">Neustadt. Vollständig durchsuchbar.</p>
+          <h1>Ein Elefant.<br><em>170 Abenteuer.</em></h1>
+          <p class="lede">Beschreibungen, Sprecher und Produktionsdaten der regulären Benjamin-Blümchen-Hörspielserie – offen, quellenbelegt und maschinenlesbar.</p>
+          <a class="primary-action" href="#katalog">Abenteuer durchsuchen <span aria-hidden="true">↓</span></a>
+        </div>
+        <div class="cassette" aria-hidden="true">
+          <div class="cassette-label">
+            <span>TRÖÖÖ!</span><strong>HÖRSPIEL-ARCHIV</strong><small>SEITE A · 1977—HEUTE</small>
+          </div>
+          <div class="tape-window"><i></i><i></i></div>
+          <div class="cassette-line"></div>
+        </div>
+      </div>
+
+      <dl class="stats" aria-label="Datenbestand">
+        <div><dt id="episode-count">170</dt><dd>Folgen</dd></div>
+        <div><dt id="cast-count">1.101</dt><dd>Sprechrollen</dd></div>
+        <div><dt id="production-count">111</dt><dd>mit Produktionsdaten</dd></div>
+        <div><dt>3</dt><dd>kuratierte Quellen</dd></div>
+      </dl>
+    </header>
+
+    <main id="katalog">
+      <section class="catalogue" aria-labelledby="catalogue-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Hörspielarchiv</p>
+            <h2 id="catalogue-title">Wonach suchst du?</h2>
+          </div>
+          <p id="result-count" aria-live="polite">Daten werden geladen …</p>
+        </div>
+
+        <form class="search-panel" role="search" id="search-form">
+          <label class="search-field">
+            <span class="sr-only">Folgen durchsuchen</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m16.5 16.5 4 4"></path></svg>
+            <input id="query" type="search" autocomplete="off" placeholder="Titel, Sprecher, Rolle, Beschreibung …">
+            <kbd>/</kbd>
+          </label>
+          <label>
+            <span class="filter-label">Zeitraum</span>
+            <select id="decade"><option value="">Alle Jahre</option></select>
+          </label>
+          <label>
+            <span class="filter-label">Datenlage</span>
+            <select id="coverage">
+              <option value="">Alle Folgen</option>
+              <option value="production">Mit Produktionsdaten</option>
+              <option value="cast">Mit Sprecherliste</option>
+              <option value="description">Mit Beschreibung</option>
+              <option value="incomplete">Mit Datenlücken</option>
+            </select>
+          </label>
+          <button id="reset" type="reset">Filter löschen</button>
+        </form>
+
+        <div class="results" id="results" aria-busy="true"></div>
+        <div class="empty" id="empty" hidden>
+          <strong>Kein Törööö zu hören.</strong>
+          <p>Versuche einen anderen Suchbegriff oder lösche die Filter.</p>
+        </div>
+      </section>
+
+      <section class="api-teaser" aria-labelledby="api-title">
+        <div>
+          <p class="eyebrow">Für Apps & Experimente</p>
+          <h2 id="api-title">Eine API ohne Server.</h2>
+          <p>Versionierte JSON-Endpunkte, kostenlos über GitHub Pages ausgeliefert. Kein Schlüssel, kein Tracking, kein Backend.</p>
+        </div>
+        <div class="code-card">
+          <div class="code-bar"><span>GET</span><button id="copy-api" type="button">URL kopieren</button></div>
+          <code id="api-example">/api/v1/episodes/001.json</code>
+          <a href="./api/">API-Dokumentation →</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Ein inoffizielles, quelloffenes Fanprojekt. Benjamin Blümchen und KIDDINX sind Marken ihrer jeweiligen Rechteinhaber.</p>
+      <p><a href="./api/v1/status.json">Datenstatus</a> · lokal vorbereitet für GitHub Pages</p>
+    </footer>
+
+    <dialog id="episode-dialog">
+      <button class="dialog-close" type="button" aria-label="Schließen">×</button>
+      <article id="episode-detail"></article>
+    </dialog>
+
+    <template id="episode-card-template">
+      <button class="episode-card" type="button">
+        <span class="episode-number"></span>
+        <span class="episode-copy"><strong></strong><small></small></span>
+        <span class="episode-arrow" aria-hidden="true">↗</span>
+      </button>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

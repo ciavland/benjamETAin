@@ -1,0 +1,96 @@
+{
+  "number": 69,
+  "title": "... als Zoodirektor",
+  "description": "Zoodirektor Tierlieb hat sich ein Bein gebrochen und muss ins Krankenhaus. Seine Vertretung übernimmt Benjamin. Da taucht unerwartet Dr. Meier-Löwenzahn, ein berühmter Löwenspezialist, auf. Er schlägt vor, aus dem Zoo einen Safaripark zu machen. Und Benjamin ist begeistert. Am Eröffnungstag ist Leo Löwe plötzlich verschwunden!",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zambo",
+      "person": "Prüter, Eberhard"
+    },
+    {
+      "role": "Fiorella",
+      "person": "Scherff, Viola"
+    },
+    {
+      "role": "Clown",
+      "person": "Müller, H.-H."
+    },
+    {
+      "role": "Leporello",
+      "person": "Müller-Lankow, Helmut"
+    },
+    {
+      "role": "Wohlgemut",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Wiederlich",
+      "person": "Ziesmer, Santiago"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly/Ulf Thiem"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-69/benjamin-bluemchen-als-zoodirektor",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=299",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

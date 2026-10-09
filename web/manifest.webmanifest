@@ -1,0 +1,10 @@
+{
+  "name": "BenjaminMeta",
+  "short_name": "BenjaminMeta",
+  "description": "Durchsuchbare Metadaten zu Benjamin-Blümchen-Hörspielen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#f6f1e7",
+  "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

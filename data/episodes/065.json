@@ -1,0 +1,62 @@
+{
+  "number": 65,
+  "title": "Wo ist Otto?",
+  "description": "Benjamin macht sich Sorgen, denn Otto ist verschwunden! Ganz Neustadt sucht schon nach ihm. Da findet er das Buch über die Höhlen von Neustadt, das Otto gestern zum Geburtstag bekommen hat. Er blättert darin herum und ahnt plötzlich, wo sein Freund ist: in der geheimnisvollen Echohöhle. Sofort macht er sich auf den Weg dorthin.",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-65/benjamin-bluemchen-wo-ist-otto",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=295",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "title"
+      ]
+    }
+  ]
+}

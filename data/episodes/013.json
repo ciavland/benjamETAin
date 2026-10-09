@@ -1,0 +1,144 @@
+{
+  "number": 13,
+  "title": "… im Krankenhaus",
+  "description": "Benjamin hat sich den Rüssel gebrochen und liegt im Krankenhaus. Wie das passiert ist? Er wollte einen Zehn-Minuten-Rüsselstand hinlegen und knickte leider dabei um. Bis alles wieder geheilt ist, dauert es ein Weilchen und zunächst ist Benjamin auch ziemlich traurig darüber. Doch bald schon ist im Krankenhaus allerhand los.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Barbara Blocksberg Hallgard Bruckhaus",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Wärter Karl Till Hagen",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Tante Paula Tilly Lauenstein",
+      "person": "Lauenstein, Tilly"
+    },
+    {
+      "role": "Herr Berlebach Erich Will",
+      "person": "Will, Erich"
+    },
+    {
+      "role": "Filmstimme Bonzo",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Filmstimme Joe",
+      "person": "Gressieker, Ulrich"
+    },
+    {
+      "role": "Filmstimme Mary",
+      "person": "Müller-Weidner, Vera"
+    },
+    {
+      "role": "Vorführer",
+      "person": "Rahn, Manfred"
+    },
+    {
+      "role": "Sanitäter",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Krankenschwester",
+      "person": "Teichmann, Edith"
+    },
+    {
+      "role": "Oberarzt",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Mathias",
+      "person": "Weigert, Kai"
+    },
+    {
+      "role": "Peter",
+      "person": "Seligmann, Oliver"
+    },
+    {
+      "role": "Moni",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Klaus",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Mutter",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-13/benjamin-bluemchen-im-krankenhaus",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=4376",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/013.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

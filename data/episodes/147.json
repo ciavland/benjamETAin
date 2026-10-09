@@ -1,0 +1,23 @@
+{
+  "number": 147,
+  "title": "Schlittenfahrt mit Hindernissen",
+  "description": "Benjamin und Otto stoßen im Schuppen auf den selbstgebauten Schlitten von Wärter Karl und wollen unbedingt damit fahren. Als am nächsten Morgen endlich Schnee liegt, scheint ihr Traum auch in Erfüllung zu gehen. Doch weit gefehlt! Leider stellt sich ihnen ein Hindernis nach dem anderen in den Weg. Es ist zum Verrücktwerden!",
+  "release_year": 2021,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-147/benjamin-bluemchen-schlittenfahrt-mit-hindernissen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

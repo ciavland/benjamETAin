@@ -1,0 +1,23 @@
+{
+  "number": 132,
+  "title": "Das Seifenkisten-Rennen",
+  "description": "Otto ist traurig, denn er wurde von seinen Schulkameraden Niklas und Moritz beim Sport als „lahme Ente“ aufgezogen. Benjamin und Stella wollen ihn wieder aufrichten. Da erzählt Karla Kolumna vom Neustädter Seifenkistenrennen und alle wissen, das ist was für Otto! Gemeinsam bauen sie eine Seifenkiste und trainieren fleißig.",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-132/benjamin-bluemchen-das-seifenkistenrennen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

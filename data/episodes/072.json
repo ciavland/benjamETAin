@@ -1,0 +1,95 @@
+{
+  "number": 72,
+  "title": "… und Bino",
+  "description": "Otto versteht nicht, warum sein großer Freund Benjamin solche Angst vor kleinen Mäusen hat, denn Bino, die Fernsehmaus aus dem Kinderprogramm, findet er doch richtig nett. Über die kann er sogar lachen. Da hat Otto eine großartige Idee: Benjamin sollte Bino kennenlernen, dann verliert er seine Angst vor Mäusen bestimmt!",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bino, Fernsehmaus",
+      "person": "Böhmke, S."
+    },
+    {
+      "role": "Lucy, Fernsehkatze",
+      "person": "Richter, E."
+    },
+    {
+      "role": "Prof. Hungerny",
+      "person": "Miedel, Klaus"
+    },
+    {
+      "role": "Bruno Bambini",
+      "person": "von Jascheroff, Mario"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulf Tiehm"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-72/benjamin-bluemchen-und-bino",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12040",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/072.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

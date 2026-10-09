@@ -1,0 +1,100 @@
+{
+  "number": 12,
+  "title": "… als Briefträger",
+  "description": "Es ist ein wunderschöner Tag, doch Benjamin langweilt sich. Der Briefträger, der gerade in den Zoo kommt, kann das nicht verstehen. Ihm ist nie langweilig, denn bei ihm ist immer etwas los. Das möchte Benjamin auch erleben. Und schon bald darf der liebste Elefant der Welt die Post in Neustadt austragen. Ob das gut geht?",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Frau Apfelberger",
+      "person": "Krasna, Maria"
+    },
+    {
+      "role": "Herr Überbein",
+      "person": "Elias, Buddy"
+    },
+    {
+      "role": "Dr. Pichel",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Briefträger",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "1. Frau",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "2. Frau",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Mann",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-12/benjamin-bluemchen-als-brieftraeger",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8062",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/012.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

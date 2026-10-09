@@ -1,0 +1,96 @@
+{
+  "number": 37,
+  "title": "Der Gorilla ist weg",
+  "description": "Benjamin und Otto machen gerade eine Schneeballschlacht, als Zoowärter Karl beunruhigt auf sie zugelaufen kommt: Der Gorilla ist verschwunden! Die Stäbe von seinem Käfig sind einfach aufgebogen worden. Sofort machen sich Benjamin, Otto und Karl auf die Suche nach ihm – im ganzen Zoo. Doch der Gorilla ist nicht mehr da!",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bibi Blocksberg Susanna Bonaséwicz",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Karla Kolumna Gisela Fritsch",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl Till Hagen",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Schaschlikverkäufer Eberhard Prüter",
+      "person": "Prüter, Eberhard"
+    },
+    {
+      "role": "Mutter Eva-Maria Werth",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Polizist Alexander Herzog",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Polizist Gerd Holtenau",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Kind Bianca Krahl",
+      "person": "Krahl, Bianca"
+    },
+    {
+      "role": "Passant",
+      "person": "Thiek, Andreas"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-37/benjamin-bluemchen-der-gorilla-ist-weg",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8081",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

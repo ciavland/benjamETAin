@@ -1,0 +1,104 @@
+{
+  "number": 28,
+  "title": "... rettet den Kindergarten",
+  "description": "Tante Rosi, Ottos ehemalige Kindergärtnerin, ist sehr traurig. Der Kindergarten soll geschlossen werden. Doch wo sollen die Kinder dann hin? Benjamin hat eine Idee: Man müsste ein großes Sommerfest veranstalten, mit einer tollen Versteigerung zu Gunsten des Kindergartens. Und mit Karla Kolumnas Hilfe wird es sicher ein Erfolg.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Herr Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Jahn, Markus"
+    },
+    {
+      "role": "Kind",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Frau",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Mann",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Fau Schneider",
+      "person": "Wellmann, Ingeborg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-28/benjamin-bluemchen-rettet-den-kindergarten",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8074",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

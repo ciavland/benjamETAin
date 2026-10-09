@@ -1,0 +1,104 @@
+{
+  "number": 51,
+  "title": "Der Weihnachtsabend",
+  "description": "Benjamins Haus im Zoo ist wunderbar mit Tannenzweigen und Kerzen geschmückt und es duftet nach Bratäpfeln: Es ist Weihnachten. Doch etwas fehlt – der Weihnachtsbaum! Gut, dass Bibi Blocksberg gerade landet. Nun sind Benjamins Freunde alle da und viele liebe Gäste aus Neustadt. Das wird bestimmt ein sehr gemütlicher Weihnachtsabend.",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bibi Blocksberg",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Brandrat Lichterloh",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Kind",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Kind",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Kind",
+      "person": "Schmidt-Foß, Gerrit"
+    },
+    {
+      "role": "Kind",
+      "person": "Krahl, Bianca"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Heiko Rüsse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-51/benjamin-bluemchen-der-weihnachtsabend",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=271",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

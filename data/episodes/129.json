@@ -1,0 +1,23 @@
+{
+  "number": 129,
+  "title": "Der Drachenflugtag",
+  "description": "Benjamin, Otto und Stella wollen am Neustädter Drachenflugtag teilnehmen. Dazu muss man zunächst einen Drachen selbst bauen und ihn dann erfolgreich auf dem Wettbewerb steigen lassen. Die Konkurrenz ist groß: Der Bürgermeister, Herr Pichler und Karla Kolumna machen auch mit. Und am Flugtag erlebt so mancher eine Überraschung!",
+  "release_year": 2015,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-129/benjamin-bluemchen-der-drachenflugtag",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

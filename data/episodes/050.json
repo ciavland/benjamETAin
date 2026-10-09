@@ -1,0 +1,80 @@
+{
+  "number": 50,
+  "title": "... als Sheriff",
+  "description": "Karla Kolumna fliegt zu ihrem Onkel nach Amerika – und Benjamin und Otto dürfen mit. Die drei freuen sich auf einen schönen Urlaub. Etwas enttäuscht müssen sie jedoch feststellen, dass Onkel Hugo in einer verlassenen Geisterstadt lebt. Es ist einfach trostlos dort. Ob Benjamin und seine Freunde daran etwas ändern können?",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Joe",
+      "person": "Schiff, Peter"
+    },
+    {
+      "role": "Onkel Hugo",
+      "person": "Duwner, Gerd"
+    },
+    {
+      "role": "Frau",
+      "person": "Buschenhagen, Tatjana"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Burghard Genz"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-50/benjamin-bluemchen-als-sheriff",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8093",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

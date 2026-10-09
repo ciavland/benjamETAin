@@ -1,0 +1,100 @@
+{
+  "number": 18,
+  "title": "... als Schornsteinfeger",
+  "description": "Benjamin freut sich, dass er den Schornsteinfeger einen Tag lang vertreten darf. Otto hilft ihm. Fröhlich machen sie sich auf zum ersten Schornstein – bei Frau Überzweck. Die alte Dame erzählt jedoch traurig, dass sich das Schornsteinfegen nicht mehr lohnt. Ihr Haus soll abgerissen werden! Ob sie das verhindern können?",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Schornsteinfeger",
+      "person": "Gescher, Norbert"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Frau Überzweck",
+      "person": "Gerstel, Ursula"
+    },
+    {
+      "role": "Bote",
+      "person": "Vogel, Jürgen"
+    },
+    {
+      "role": "Leute",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Leute",
+      "person": "Kreklau, Rüdiger"
+    },
+    {
+      "role": "Hausbesitzer",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-18/benjamin-bluemchen-als-schornsteinfeger",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=140",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/018.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

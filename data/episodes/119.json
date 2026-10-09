@@ -1,0 +1,23 @@
+{
+  "number": 119,
+  "title": "… als Busfahrer",
+  "description": "Der Schulbusfahrer von Ottos und Stellas Schule ist krank. Benjamin springt für ihn ein und seine Freunde helfen ihm dabei. Otto und Stella stehen sogar früher auf, um ihn zu begleiten. Eine Testfahrt läuft gut, aber am ersten Tag kommt Benjamin gleich zu spät mit den Kindern. Das darf nicht sein! Ob er eine zweite Chance bekommt?",
+  "release_year": 2012,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-119/benjamin-bluemchen-als-busfahrer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

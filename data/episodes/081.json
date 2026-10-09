@@ -1,0 +1,68 @@
+{
+  "number": 81,
+  "title": "Das Geheimnis der Tempelkatze",
+  "description": "Karla Kolumna ist zusammen mit Professor Hieroglyphos auf einer Forschungsreise in Afrika. Sie suchen dort nach der magischen Tempelkatze. Doch ein hinterlistiger Wesir verhaftet sie einfach. Als Benjamin und Otto im Radio davon hören, brechen sie sofort auf, um den beiden zu helfen. In der Wüste ist es aber nicht ungefährlich.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Bauschulte, Friedrich W."
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Emir",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Raffi",
+      "person": "Duwner, Gerd"
+    },
+    {
+      "role": "Professor",
+      "person": "Groeger, Peter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-81/benjamin-bluemchen-das-geheimnis-der-tempelkatze",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=311",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 130,
+  "title": "… und der sprechende Papagei",
+  "description": "Benjamin, Otto und Stella fliegt ein sprechender Papagei zu. Sie bringen ihn zunächst in den Zoo, können seinen Besitzer aber nicht ausfindig machen. Die rätselhaften Sprüche des Papageis lassen die Freunde schließlich vermuten, dass er sie zu einem Schatz führen könnte. Mit Karla Kolumnas Hilfe machen sie sich auf die Suche.",
+  "release_year": 2015,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-130/benjamin-bluemchen-und-der-sprechende-papagei",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "number": 58,
+  "title": "Die Wünschelrute",
+  "description": "Seit Wochen hat es nicht mehr geregnet. Die Sonne brennt, kein Wölkchen ist am Himmel und in Neustadt gibt es bald kein Wasser mehr. Der Bürgermeister sperrt die Leitungen, damit das restliche Wasser nicht zu schnell verbraucht wird. Doch das ist keine Lösung: Benjamin macht sich mit einer Wünschelrute auf die Suche nach neuem Wasser.",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Herr Loch",
+      "person": "Jurichs, Claus"
+    },
+    {
+      "role": "Nachrichtensprecher",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-58/benjamin-bluemchen-die-wuenschelrute",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=288",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

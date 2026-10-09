@@ -1,0 +1,95 @@
+{
+  "number": 113,
+  "title": "Der Abenteuer-Spielplatz",
+  "description": "Benjamin, Otto, Stella und Förster Waldmann bauen im Wald einen Abenteuer-Spielplatz für Kinder. Doch in der letzten Nacht vor dem großen Eröffnungsfest wird der Platz verwüstet und das restliche Bauholz gestohlen. Benjamin und seine Freunde müssen die Diebe und das Holz finden - sonst wird der Spielplatz nicht fertig!",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Stella",
+      "person": "Bierstedt, Marie"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Hemmo, Roland"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Förster Waldmann",
+      "person": "Hailer, Thomas"
+    },
+    {
+      "role": "Hinki",
+      "person": "Pan, Michael"
+    },
+    {
+      "role": "Pinki",
+      "person": "Mannkopff, Andreas"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-113/benjamin-bluemchen-der-abenteuerspielplatz",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=12507",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

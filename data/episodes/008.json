@@ -1,0 +1,104 @@
+{
+  "number": 8,
+  "title": "... auf dem Baum",
+  "description": "In einer gewagten Kletteraktion rettet Benjamin einen Wellensittich von einem hohen Baum. Ihm selbst gefällt es dort oben eigentlich recht gut und so bleibt er noch und schläft ein. Unsanft weckt ihn das Geräusch einer Säge: Der Baum soll für eine breitere Straße gefällt werden! Ob es Benjamin gelingt, das zu verhindern?",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Stadtrat",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Gartenbauamtsangestellter",
+      "person": "Condrus, Wolfgang"
+    },
+    {
+      "role": "Frau",
+      "person": "Luigi, Lola"
+    },
+    {
+      "role": "Passantin",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Passant",
+      "person": "Gauß, Helmut"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Jonas Bergler"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-8/benjamin-bluemchen-auf-dem-baum",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8059",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/008.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

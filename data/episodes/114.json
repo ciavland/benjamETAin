@@ -1,0 +1,23 @@
+{
+  "number": 114,
+  "title": "… und der Delfin",
+  "description": "Ist das eine Hitze in Neustadt! Benjamin, Otto und Stella liegen am Zoosee und können sich kaum rühren. Da spritzt plötzlich jemand kaltes Wasser auf sie. Es ist ein kleiner Delfin. Er muss sich verschwommen haben. Die drei Freunde wollen ihn nach Hause zurückbringen. Ob sie herausfinden, woher der kleine Delfin kommt?",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-114/benjamin-bluemchen-und-der-delfin",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

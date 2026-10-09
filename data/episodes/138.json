@@ -1,0 +1,23 @@
+{
+  "number": 138,
+  "title": "Das neue Müllauto",
+  "description": "Auf dem Sommerfest der Stadtreinigung gibt es ein Tauziehen Benjamin gegen die Müllleute. Diese purzeln leider wild durcheinander und können erst einmal nicht mehr zur Arbeit gehen. Also müssen Benjamin und Otto das Leeren der Mülltonnen übernehmen. Sie dürfen sogar mit dem neuen Müllauto fahren. Doch dann wird es gestohlen!",
+  "release_year": 2018,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-138/benjamin-bluemchen-das-neue-muellauto",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "number": 48,
+  "title": "... kriegt ein Geschenk",
+  "description": "Benjamin hat Geburtstag! Eine richtig schöne Geburtstagssonne strahlt vom Himmel und alle seine Freunde sind da. Auch die riesige Geburtstagstorte mit Zuckerguss schmeckt köstlich. Da kommt plötzlich ein Bote und bringt ein großes wackelndes Paket. Benjamin öffnet es neugierig und ist überglücklich, als er sieht, was es ist.",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Nuckel",
+      "person": "Ziffer, Wolfgang"
+    },
+    {
+      "role": "Postbote",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Frau",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Frau",
+      "person": "Molitor, M."
+    },
+    {
+      "role": "Mann",
+      "person": "von Ulmann, Joachim"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-48/benjamin-bluemchen-kriegt-ein-geschenk",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8091",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

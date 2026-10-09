@@ -1,0 +1,23 @@
+{
+  "number": 144,
+  "title": "Zuckerstückchen-Express",
+  "description": "Benjamin braucht dringend Zuckerstückchen und wartet mit Otto auf den Zug, der neue bringen soll. Im Bahnhof steht auch Baron von Zwiebelschreck, denn seine berühmte Zuckerstückchen-Sammlung kommt mit diesem Zug aus einem Museum zurück. Doch alle warten vergebens. Schließlich machen sie sich gemeinsam auf die Suche nach dem Zug!",
+  "release_year": 2020,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-144/benjamin-bluemchen-zuckerstueckchenexpress",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

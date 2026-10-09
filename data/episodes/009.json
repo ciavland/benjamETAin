@@ -1,0 +1,104 @@
+{
+  "number": 9,
+  "title": "... hat Geburtstag",
+  "description": "Benjamin hat noch nie seinen Geburtstag gefeiert, denn er weiß nicht, wann der ist. Da legt Otto einfach fest, dass Benjamins Party übernächsten Freitag stattfindet. Alle Verwandten sind eingeladen. Und so wollen 285 Elefanten mit dem Flugzeug nach Neustadt kommen. Es wird ziemlich turbulent und es gibt viele Überraschungen.",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Briefträger",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Hans Heinrich",
+      "person": "Pukaß, Joachim"
+    },
+    {
+      "role": "Sekretärin",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Radioansager",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Eberhard Sengpiel"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-9/benjamin-bluemchen-hat-geburtstag",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8060",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/009.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "number": 24,
+  "title": "... als Detektiv",
+  "description": "Begeistert erzählt Benjamin Otto von spannenden Detektivgeschichten, und dass er am liebsten selbst auch einmal Detektiv sein möchte. Da erfahren sie von Zoowärter Karl, der völlig durcheinander ist, dass das Pandababy verschwunden ist. Ausgerechnet im Bonbonladen scheint Benjamin eine erfolgversprechende Spur aufzunehmen.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Hutmacher",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Mädchen",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Verkäuferin",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Bonbon-Verkäufer",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Kommissar Ratlos",
+      "person": "Müller, Karl-Heinz"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-24/benjamin-bluemchen-als-detektiv",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=5209",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/024.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

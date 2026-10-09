@@ -1,0 +1,23 @@
+{
+  "number": 115,
+  "title": "Die kleinen Kätzchen",
+  "description": "Benjamin findet ein kleines Kätzchen im Zoo. Wem es wohl gehört? Zusammen mit Stella und Otto will er das herausfinden. Da läuft den dreien Butler James über den Weg. Er ist auf der Suche nach einer Katze – doch ihre ist es nicht. Seltsam! Eine Katze verschwindet, eine andere wird gefunden. Ob sie dieses Rätsel lösen können?",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-115/benjamin-bluemchen-die-kleinen-kaetzchen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

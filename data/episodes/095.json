@@ -1,0 +1,80 @@
+{
+  "number": 95,
+  "title": "Die Wunderblume",
+  "description": "Benjamin soll sich um die wertvolle Weck-mich-Orchidee des berühmten Botanikers Floribus kümmern. Leider bekommen das auch Hinki und Pinki, die beiden Gauner, mit. Noch am selben Tag stehlen sie die Wunderblume! In einer turbulenten Verfolgungsjagd versuchen Benjamin und Otto, die kostbare Orchidee zurückzubekommen. Ob es ihnen gelingt?",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Herr Floribus",
+      "person": "Klebsch, K. Dieter"
+    },
+    {
+      "role": "Hinki",
+      "person": "Pan, Michael"
+    },
+    {
+      "role": "Pinki",
+      "person": "Mannkopff, Andreas"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-95/benjamin-bluemchen-die-wunderblume",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=6866",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

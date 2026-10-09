@@ -1,0 +1,23 @@
+{
+  "number": 116,
+  "title": "Die Spaßmaschine",
+  "description": "Benjamin, Otto und Stella kümmern sich um die Zootiere, denn Wärter Karl ist im Urlaub und Direktor Tierlieb hat ein Gipsbein. Allerdings ist das sehr viel Arbeit. Deshalb baut der Erfinder Eddi Eddison eine Maschine, die ihnen hilft. Doch vor der fürchten sich die Zootiere. Deshalb müssen ein paar spaßige Umbauten her!",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-116/benjamin-bluemchen-die-spassmaschine",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

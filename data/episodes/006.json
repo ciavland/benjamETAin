@@ -1,0 +1,108 @@
+{
+  "number": 6,
+  "title": "... und die Schule",
+  "description": "Otto kommt zu Benjamin in den Zoo und erzählt ihm, dass sich die Lehrerin seiner Schwester den Knöchel gebrochen hat. Doch schulfrei gibt es nicht – der Hausmeister soll als Ersatzlehrer unterrichten. Das ist sehr schlimm, denn der Mann kann Kinder nicht leiden. Was nun? Da hat der liebste Elefant der Welt eine tolle Idee.",
+  "release_year": 1980,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Schulrat",
+      "person": "Nägelen, Klaus"
+    },
+    {
+      "role": "Schuldirektorin",
+      "person": "Lagemann, Sigrid"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Gauß, Helmut"
+    },
+    {
+      "role": "Hausmeister",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "1. Mädchen",
+      "person": "Buschenhagen, Tatjana"
+    },
+    {
+      "role": "2. Mädchen",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "1. Junge",
+      "person": "Lucke, Steffen"
+    },
+    {
+      "role": "2. Junge",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Jonas Bergler"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-6/benjamin-bluemchen-und-die-schule",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8058",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/006.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

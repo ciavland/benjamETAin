@@ -1,0 +1,23 @@
+{
+  "number": 148,
+  "title": "... als Rettungselefant",
+  "description": "Weil die Feuerwehr zu viel zu tun hat, müssen Benjamin und Otto die Katze von Frau Drahtmeier vom Baum retten. Deswegen beschließen sie, einen Tierrettungs-Notdienst einzurichten. Sie bauen ein altes Fahrradtaxi zum Rettungsrad um und Frau Kolumna setzt sich in die Telefonzentrale. Und schon geht es los mit den Notfalleinsätzen",
+  "release_year": 2021,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-148/benjamin-bluemchen-als-rettungselefant",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

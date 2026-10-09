@@ -1,0 +1,108 @@
+{
+  "number": 1,
+  "title": "…als Wetterelefant",
+  "description": "Benjamin ist ein lieber, sprechender Elefant. Er lebt im Neustädter Zoo und fühlt sich dort eigentlich recht wohl, aber manchmal ist ihm langweilig. Darum erkundigt er sich danach, ob es für ihn in Neustadt nicht etwas zu tun gibt. Eines Tages hat er Glück: Für den Wetterhahn Siegfried Simpel wird dringend eine Urlaubsvertretung gesucht.",
+  "release_year": 1977,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Stadtrat",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Stadträtin",
+      "person": "Ebbinghaus, R."
+    },
+    {
+      "role": "Aurelia Nussbaum",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Herr Schläfrig",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Wetterhahn",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Hubschrauber-Pilot",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Kind",
+      "person": "Buschenhagen, Tatjana"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Udo Arndt"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-1/benjamin-bluemchen-als-wetterelefant",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=4375",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/001.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

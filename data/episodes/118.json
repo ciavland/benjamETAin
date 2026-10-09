@@ -1,0 +1,23 @@
+{
+  "number": 118,
+  "title": "... auf der Baustelle",
+  "description": "Als Benjamin, Otto und Stella in der Gelateria Stellini sitzen, tropft es durch die Decke. Das Gebäude ist so marode, dass der Bürgermeister es wegen Baufälligkeit schließt. Die Eisdiele muss renoviert werden oder der Altstädter Eismacher Paul Protz bekommt sie. Klar, dass Benjamin und seine Freunde die Bauarbeiten übernehmen!",
+  "release_year": 2011,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-118/benjamin-bluemchen-auf-der-baustelle",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

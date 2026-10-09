@@ -1,0 +1,88 @@
+{
+  "number": 66,
+  "title": "... als Ballonfahrer",
+  "description": "In Neustadt findet ein Ballonflugwettbewerb statt! Da wollen Benjamin und Otto unbedingt mitmachen. Karla Kolumna besorgt einen großen Ballon und die Badewanne von Wärter Karl wird zur Gondel. Viel Zeit zum Üben ist jedoch nicht. Ob die beiden Freunde gegen den neuen Ballon von Baron von Zwiebelschreck eine Chance haben?",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Wilhelm",
+      "person": "Kiesel, Florian"
+    },
+    {
+      "role": "Wilhelmine",
+      "person": "Preinesberger, Nicola"
+    },
+    {
+      "role": "Baron von Zwiebelschreck",
+      "person": "Beckhaus, Friedrich Georg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-66/benjamin-bluemchen-als-ballonfahrer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=11856",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

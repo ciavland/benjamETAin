@@ -1,0 +1,23 @@
+{
+  "number": 135,
+  "title": "Die Zoo-Feuerwehr",
+  "description": "Baron von Zwiebelschreck beschwert sich mal wieder über den Lärm aus dem Zoo. Doch diesmal lässt er es dabei nicht bewenden. Er bringt den Bürgermeister dazu, den Zoo ganz zu schließen. Die Begründung dafür lautet, es gibt keine Feuerwehr. Da stellen Benjamin und Otto mit den Tieren einfach eine Zoo-Feuerwehr auf die Beine!",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-135/benjamin-bluemchen-die-zoofeuerwehr",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

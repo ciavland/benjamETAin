@@ -1,0 +1,80 @@
+{
+  "number": 42,
+  "title": "… als Ritter",
+  "description": "Benjamin und Otto träumen davon, Ritter zu sein: Furchtlos wollen sie Drachen bekämpfen und Prinzessinnen befreien! Doch als Ritter brauchen sie zuallererst eine Ritterrüstung. Nur, wo gibt es die heutzutage – vor allem in Benjamins Größe? Da hat Karla Kolumna eine großartige Idee. Und schon kann das Ritterleben beginnen!",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Blechmann",
+      "person": "Bussinger, Hans Werner"
+    },
+    {
+      "role": "Herr von Knobloch",
+      "person": "Schiff, Peter"
+    },
+    {
+      "role": "Frau Krause",
+      "person": "Wellmann, Ingeborg"
+    },
+    {
+      "role": "Polizist",
+      "person": "Holtenau, Gerd"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Burghard Genz"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-42/benjamin-bluemchen-als-ritter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8085",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

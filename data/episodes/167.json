@@ -1,0 +1,23 @@
+{
+  "number": 167,
+  "title": "Der Meisterdetektiv",
+  "description": "Benjamin und Otto müssen einen Diebstahl im Neustädter Zoo aufklären und ein gestohlenes goldenes Handy wiederfinden. Denn solange es verschwunden ist, bleibt der Zoo laut Anordnung des Herrn Bürgermeisters geschlossen. Dieser schickt ihnen sogar einen echten Meisterdetektiv zu Hilfe. Gemeinsam begeben sie sich auf Spurensuche.",
+  "release_year": 2025,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-167/benjamin-bluemchen-der-meisterdetektiv",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

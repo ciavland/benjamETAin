@@ -1,0 +1,93 @@
+{
+  "number": 104,
+  "title": "Die Zoo-Olympiade",
+  "description": "Stella und Otto finden, dass Benjamin zugenommen hat! Er ist empört. Doch als die Waage unter seinem Gewicht kaputtgeht, sieht er es ein. Von nun an gilt: Gesünder ernähren und vor allem viel bewegen! Aber wie kann man abnehmen und Spaß dabei haben? Ganz einfach: Alle – auch die Tiere – machen bei einer Zoo-Olympiade mit!",
+  "release_year": 2006,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Stellas Papa",
+      "person": "C. Maniscalco"
+    },
+    {
+      "role": "Hinki",
+      "person": "M. Pan"
+    },
+    {
+      "role": "Pinki",
+      "person": "A. Mannkopf"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-104/benjamin-bluemchen-die-zooolympiade",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=9485",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/104.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

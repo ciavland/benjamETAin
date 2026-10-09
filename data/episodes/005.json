@@ -1,0 +1,88 @@
+{
+  "number": 5,
+  "title": "... auf hoher See",
+  "description": "Die Hitze im Zoo ist kaum auszuhalten. Da spazieren Benjamin und Otto einfach zum Neustädter Hafen, denn dort weht immer ein frischer Wind. Das schöne große Schiff dort macht sie neugierig und sie wollen es sich näher ansehen. Heimlich gelangen sie in den Schiffsbauch. Und ehe sie es sich versehen, sind sie schon auf hoher See.",
+  "release_year": 1979,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Kapitän",
+      "person": "Mahlau, Hans"
+    },
+    {
+      "role": "Taucher",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Ralf Bauer"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-5/benjamin-bluemchen-auf-hoher-see",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8057",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/005.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

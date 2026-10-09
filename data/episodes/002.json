@@ -1,0 +1,92 @@
+{
+  "number": 2,
+  "title": "… rettet den Zoo",
+  "description": "Benjamin könnte die ganze Welt umarmen, so zufrieden ist er. Doch als der Gerichtsvollzieher plötzlich im Zoo auftaucht, vergeht ihm die gute Laune. Weil Zoodirektor Tierlieb das Futter für die Tiere nicht bezahlen kann, soll alles gepfändet werden: die Schreibmaschine, der Kaffeetopf, sogar Leo Löwe! Da hat Benjamin eine Idee.",
+  "release_year": 1977,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Ulrich Umsatz",
+      "person": "Schuster, Manfred"
+    },
+    {
+      "role": "Gerichtsvollzieher Lemmle",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Udo Arndt"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-2/benjamin-bluemchen-rettet-den-zoo",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8056",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/002.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

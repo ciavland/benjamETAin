@@ -1,0 +1,23 @@
+{
+  "number": 139,
+  "title": "Der Dinosaurierknochen",
+  "description": "Als Benjamin und Otto mit Daisy, der Hündin von Baron von Zwiebelschreck Gassi gehen, buddelt sie einen Dinosaurierknochen aus. Professor Hieroglyphus ist begeistert: Genau dieser fehlt noch im Dinosaurierskelett des Neustädter Museums. Also wird der Knochen in der Museumswerkstatt präpariert. Doch am Morgen ist er verschwunden!",
+  "release_year": 2018,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-139/benjamin-bluemchen-der-dinosaurierknochen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

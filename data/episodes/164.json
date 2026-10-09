@@ -1,0 +1,23 @@
+{
+  "number": 164,
+  "title": "... als Eisverkäufer",
+  "description": "Benjamin und Otto spielen Fußball und kicken aus Versehen der Eisverkäuferin Frida Frost die Brille von der Nase. Wer soll jetzt ihren Eiswagen fahren und ihr Eis verkaufen, während sie sich eine neue Brille machen lässt? Klar, dass die beiden einspringen und bimmelnd durch Neustadt fahren. Allerdings geht dabei einiges schief!",
+  "release_year": 2025,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-164/benjamin-bluemchen-als-eisverkaeufer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 86,
+  "title": "Das Nilpferdbaby",
+  "description": "Benjamin freut sich: Das Nilpferdbaby ist heute zur Welt gekommen und die Bauarbeiten für ein größeres Wasserbecken haben begonnen. Doch Baron von Zwiebelschreck, der nebenan wohnt, fühlt sich durch den Baulärm gestört. Deshalb staut er das Flüsschen, das durch sein Anwesen in den Zoo fließt. Die Tiere brauchen das Wasser aber!",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zoodirektor Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Baron von Zwiebelschreck",
+      "person": "Beckhaus, Friedrich Georg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-86/benjamin-bluemchen-das-nilpferdbaby",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=254",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

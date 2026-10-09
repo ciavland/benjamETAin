@@ -1,0 +1,23 @@
+{
+  "number": 161,
+  "title": "Zurück zur Leuchtturminsel",
+  "description": "Benjamin bekommt einen Anruf von Leuchtturmwärter Ole Jensen: Mit Fini, dem Delfin stimme etwas nicht. Also machen sich er und Otto auf zur Leuchtturminsel. Und tatsächlich, Fini springt dort wie verrückt im Meer herum, als wolle er ihnen etwas zeigen. Da entdecken sie lauter Müll im Wasser. Wie kommt der nur dorthin?",
+  "release_year": 2024,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-161/benjamin-bluemchen-zurueck-zur-leuchtturminsel",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

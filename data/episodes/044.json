@@ -1,0 +1,88 @@
+{
+  "number": 44,
+  "title": ":.. als Bäcker",
+  "description": "Zoodirektor Tierlieb ist etwas verärgert, denn er hat heute vergeblich auf frische Brötchen zum Frühstück gewartet. Warum ist der Bäckerjunge bloß nicht in den Zoo gekommen? Benjamin und Otto finden heraus, dass er zu viel Zuckerteig genascht hat und nun krank ist. Klar, dass die beiden dem Bäcker sofort ihre Hilfe anbieten.",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bäcker",
+      "person": "Grote, Manfred"
+    },
+    {
+      "role": "Manni",
+      "person": "Crytzek, P."
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Polizist",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Polizist",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Polizist",
+      "person": "von Ulmann, Joachim"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Burghard Genz"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-44/benjamin-bluemchen-als-baecker",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8087",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

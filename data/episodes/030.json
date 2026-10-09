@@ -1,0 +1,72 @@
+{
+  "number": 30,
+  "title": "... als Pilot",
+  "description": "Zusammen mit Karla Kolumna fliegen Benjamin und Otto nach Amerika. Kaum sind sie im Flugzeug, wird auch schon das Mittagessen serviert. Doch so richtig Appetit hat keiner von den dreien. Wie gut, denn kurze Zeit später leiden alle an Bord an großer Übelkeit, sogar die beiden Piloten. Ob Benjamin das Flugzeug retten kann?",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Polizist",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Stewardess",
+      "person": "Werth, Eva-Maria"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-30/benjamin-bluemchen-als-pilot",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8075",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

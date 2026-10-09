@@ -1,0 +1,98 @@
+{
+  "number": 111,
+  "title": "Sei nicht traurig, Benjamin!",
+  "description": "Benjamin ist voller Vorfreude! Otto und Stella haben ihn zu ihrem Schulausflug auf den Karbunkelstein eingeladen. Doch am Treffpunkt erscheint niemand. Da glaubt Benjamin, seine Freunde hätten ihn vergessen. Aber kann das denn sein? Neustadts Reporterin Karla Kolumna versucht alles, um den traurigen Elefanten wieder aufzuheitern.",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Kirmesmann",
+      "person": "T. Schmitz"
+    },
+    {
+      "role": "Marktverkäufer",
+      "person": "G. Schaale"
+    },
+    {
+      "role": "Polizist",
+      "person": "V. Neumann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-111/benjamin-bluemchen-sei-nicht-traurig-benjamin",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=11668",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/111.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

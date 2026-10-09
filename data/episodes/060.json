@@ -1,0 +1,99 @@
+{
+  "number": 60,
+  "title": "Der Doppelgänger",
+  "description": "Benjamin und Otto machen Urlaub an der See. Doch als sie dort in die Zeitung schauen, ist die Urlaubsstimmung vorbei: Benjamin ist mit seinem berühmten Rüsselstand auf Welttournee? Davon weiß er ja gar nichts! Völlig verwirrt ruft er Karla Kolumna an. Die rasende Reporterin eilt sofort herbei, denn sie wittert eine Sensation!",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Jasmin"
+    },
+    {
+      "role": "Kleiner Junge",
+      "person": "Schalla, Björn"
+    },
+    {
+      "role": "Karl-August",
+      "person": "Rahn, Manfred"
+    },
+    {
+      "role": "Dompteur Dressuro",
+      "person": "Thiek, Andreas"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Leute",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Leute",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-60/benjamin-bluemchen-der-doppelgaenger",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=15966",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/060.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

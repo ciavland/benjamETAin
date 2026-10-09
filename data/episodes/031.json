@@ -1,0 +1,96 @@
+{
+  "number": 31,
+  "title": "... als Feuerwehrmann",
+  "description": "Das Blaskonzert der Feuerwehrkapelle findet Benjamin so schön, dass er zu gerne auch richtig trompeten lernen möchte. Er stellt sich bei der Feuerwehr vor: Brandrat Lichterloh ist etwas überrascht, nimmt den sprechenden Elefanten aber gerne auf. Doch schon während der ersten Übungsstunde gibt es plötzlich einen Feueralarm.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Pagel, Tobias"
+    },
+    {
+      "role": "Oberbrandrat Lichterloh",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Theo",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Lehrerin",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Kind",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Heiko Rüsse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-31/benjamin-bluemchen-als-feuerwehrmann",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8076",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

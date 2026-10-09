@@ -1,0 +1,90 @@
+{
+  "number": 108,
+  "title": "Ottos kleines Geheimnis",
+  "description": "Benjamin und Stella wundern sich: Otto verhält sich anders als sonst. Er ist verwirrt, vergesslich und lässt seine Freunde im Stich. Dabei wollen sie doch zusammen einen Infostand für den Zoo aufbauen. Neustadts sprechender Elefant muss herausfinden, was mit seinem besten Freund los ist – zusammen mit Stella spielt er Detektiv!",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Fiona Tabea Tallulah",
+      "person": "L. Mitsching"
+    },
+    {
+      "role": "Hausmeister",
+      "person": "P. Reinhardt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-108/benjamin-bluemchen-ottos-kleines-geheimnis",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=10826",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/108.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

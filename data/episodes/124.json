@@ -1,0 +1,23 @@
+{
+  "number": 124,
+  "title": "… im Tante-Emma-Laden",
+  "description": "Imker Immelmann braucht Hilfe beim Verkauf seines Honigs. Deshalb eröffnen Benjamin, Stella und Otto einen Kaufladen in Neustadt. Dort bieten sie auch andere frische Waren aus dem Umland an. Aber das gefällt dem Besitzer des Nachbarladens gar nicht. Es ist Herr Schmeichler, und der macht Benjamin mal wieder großen Ärger.",
+  "release_year": 2013,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-124/benjamin-bluemchen-im-tanteemmaladen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

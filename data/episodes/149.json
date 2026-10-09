@@ -1,0 +1,23 @@
+{
+  "number": 149,
+  "title": "auf der Tankstelle",
+  "description": "Benjamin und Otto sind mit dem Zoolaster unterwegs, um für Wärter Karl Tierfutter zu besorgen. Auf dem Rückweg fahren sie zuerst den Tank leer und haben dann auch noch eine Motorpanne. Sie bekommen Hilfe an einer kleinen Tankstelle an der Landstraße. Während sie auf die Reparatur des Motors warten, helfen sie als Tankwarte aus.",
+  "release_year": 2021,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-149/benjamin-bluemchen-auf-der-tankstelle",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

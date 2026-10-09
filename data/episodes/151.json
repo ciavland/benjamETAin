@@ -1,0 +1,23 @@
+{
+  "number": 151,
+  "title": "Das Elefantenkarussell",
+  "description": "Benjamin und Otto gehen wieder auf den Neustädter Rummel. Sie freuen sich auf die Karussells und auf Zuckerwatte! Da entdecken sie ein neues Fahrgeschäft: ein Kinderkarussell mit Elefantenfiguren. Sie sind begeistert. Noch mehr freuen sie sich, als sie den Besitzer vertreten dürfen. Doch dann ist plötzlich die Kasse verschwunden!",
+  "release_year": 2022,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-151/benjamin-bluemchen-das-elefantenkarussell",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

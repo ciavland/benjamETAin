@@ -1,0 +1,84 @@
+{
+  "number": 97,
+  "title": "Die Gespensterkinder",
+  "description": "Kasimir, das Gespenst von Burg Eintracht, erzählt Benjamin und Otto von König Funkelstein, der vor 700 Jahren hier regierte. Er besaß eine Sammlung von Edelsteinen. Diese haben Kasimirs Vorfahren Kuschel und Killerich angeblich gestohlen. Um die Wahrheit herauszufinden, reisen Benjamin und Otto mit einer Zeitmaschine in die Vergangenheit.",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Kasimir",
+      "person": "von Jascheroff, Mario"
+    },
+    {
+      "role": "Prinzessin Lea",
+      "person": "Schramm, Marie-Luise"
+    },
+    {
+      "role": "König Funkelstein",
+      "person": "Lampe, Horst"
+    },
+    {
+      "role": "Erfindungsminister",
+      "person": "Blumhagen, Lothar"
+    },
+    {
+      "role": "Kuschel",
+      "person": "Borgwardt, Diana S."
+    },
+    {
+      "role": "Killerich",
+      "person": "Reidies, Daniela"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-97/benjamin-bluemchen-die-gespensterkinder",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8095",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

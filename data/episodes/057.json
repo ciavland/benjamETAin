@@ -1,0 +1,99 @@
+{
+  "number": 57,
+  "title": "... als Bürgermeister",
+  "description": "Der Bürgermeister von Neustadt ist mit seinen Nerven völlig am Ende. Als Benjamin und Zoodirektor Tierlieb dann noch zu einem Termin bei ihm erscheinen, hat er genug. Er hängt Benjamin seine goldene Amtskette um den Rüssel und verabschiedet sich einfach für vier Wochen. Doch was soll der Bürgermeister-Elefant denn jetzt machen?",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Stadtrat Klingelsack",
+      "person": "Thormann, Jürgen"
+    },
+    {
+      "role": "Gefängniswärter",
+      "person": "Grote, Manfred"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-57/benjamin-bluemchen-als-buergermeister",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=287",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/057.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

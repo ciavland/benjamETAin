@@ -1,0 +1,104 @@
+{
+  "number": 52,
+  "title": "Der Weihnachtstraum",
+  "description": "Schön eingekuschelt sind Benjamin und Otto am Weihnachtsnachmittag eingeschlafen: Im Traum müssen die beiden ihre Wunschzettel schnell noch zum Weihnachtsmann bringen. Karla Kolumna hilft ihnen dabei. Auf einer langen Rolltreppe fahren sie hinauf bis zum Himmel. Es ist ganz fantastisch, was sie dort alles sehen und erleben!",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Weihnachtsmann",
+      "person": "Branding, Heinz-Theo"
+    },
+    {
+      "role": "Chorleitengel",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Bäckerengel",
+      "person": "Fritsch, Kurt-Otto"
+    },
+    {
+      "role": "Joshua",
+      "person": "Jepsen, Klaus"
+    },
+    {
+      "role": "Koch",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Cherubim",
+      "person": "Krahl, Bianca"
+    },
+    {
+      "role": "Mariechen",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Kinderengel",
+      "person": "Helmi, R."
+    },
+    {
+      "role": "Kinderengel",
+      "person": "Rückert, Virpy"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-52/benjamin-bluemchen-der-weihnachtstraum",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=272",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

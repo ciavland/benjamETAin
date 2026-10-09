@@ -1,0 +1,92 @@
+{
+  "number": 40,
+  "title": "… zieht aus",
+  "description": "Benjamin schmollt. Er darf nicht verreisen, weil er im Zoo gebraucht wird. Herr Schmeichler versteht ihn: Ein moderner Elefant braucht sich nichts verbieten zu lassen – und er sollte in einer viel moderneren Wohnung leben, in einem Hochhaus! Benjamin glaubt ihm und verlässt sofort den Zoo. Ob er jemals wieder zurückkommt?",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Bankdirektor",
+      "person": "von Nordhausen, Engelbert"
+    },
+    {
+      "role": "Frau Meier",
+      "person": "Wiedem, Ilona"
+    },
+    {
+      "role": "Herr Schmeichler",
+      "person": "Miedel, Klaus"
+    },
+    {
+      "role": "Frau",
+      "person": "Gerstel, Ursula"
+    },
+    {
+      "role": "Mann",
+      "person": "Holtenau, Gerd"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-40/benjamin-bluemchen-zieht-aus",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3812",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

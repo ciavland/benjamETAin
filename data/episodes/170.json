@@ -1,0 +1,23 @@
+{
+  "number": 170,
+  "title": "... in Australien",
+  "description": "Benjamin und Otto treffen sich in Sydney mit ihrem Freund Djalu. Dort geraten sie zufällig an ein gestohlenes Schnabeltier. Das unter Schutz stehende Tier muss dringend wieder zurück in die Wildnis! Die drei Freunde wollen es in einen sicheren Nationalpark bringen. Eine abenteuerliche Fahrt durch Australien beginnt!",
+  "release_year": 2026,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-170/benjamin-bluemchen-australien",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

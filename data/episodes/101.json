@@ -1,0 +1,80 @@
+{
+  "number": 101,
+  "title": "Ottos neue Freundin Teil 2",
+  "description": "Ottos neue Klassenkameradin Stella ist krank. Schon am Tag zuvor haben Benjamin, Otto und Karla Kolumna sie zu Hause besucht und mit ihren lustigsten und spannendsten Abenteuergeschichten getröstet. Zur großen Freude von Stella sind unsere Freunde auch heute wieder da und erzählen weiter. Schließlich ist das die beste Medizin!",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Stella",
+      "person": "Bierstedt, Marie"
+    },
+    {
+      "role": "Stellas Mama",
+      "person": "Pukaß, Melanie"
+    },
+    {
+      "role": "Dr. Wunderlich",
+      "person": "Völz, Wolfgang"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-101/benjamin-bluemchen-ottos-neue-freundin-teil-2",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8997",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

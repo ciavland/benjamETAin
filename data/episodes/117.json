@@ -1,0 +1,23 @@
+{
+  "number": 117,
+  "title": "Die Zoo-Schwimmschule",
+  "description": "Stella gesteht Benjamin und Otto, dass sie nicht schwimmen kann. Sofort beschließen die beiden, ihrer Freundin im Zoosee Schwimmunterricht zu geben. Robby Robbe und Quaki Quakfrosch machen vor, wie es geht. Und plötzlich gibt es noch mehr Schüler: drei kleine Krokodile. Ob am Ende alle ihr Schwimmabzeichen bekommen werden?",
+  "release_year": 2011,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-117/benjamin-bluemchen-die-zooschwimmschule",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

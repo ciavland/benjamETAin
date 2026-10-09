@@ -1,0 +1,84 @@
+{
+  "number": 84,
+  "title": "Der kleine Ausreißer",
+  "description": "Im Namen der Stadt schenkt Sekretär Pichler Herrn Tierlieb das Pinselohräffchen Chico. Das fällt ihm gar nicht so leicht, denn er hat ihn bereits in sein Herz geschlossen. Auch Benjamin mag den neuen Zoobewohner sofort. Doch dann ist Chico plötzlich verschwunden. Ob er der Geist ist, der in Neustadt alle Uhren verstellt?",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Anna",
+      "person": "Neusser, K."
+    },
+    {
+      "role": "Fritz",
+      "person": "Turba, David"
+    },
+    {
+      "role": "Chico",
+      "person": "Decker, V."
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-84/benjamin-bluemchen-der-kleine-ausreisser",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=314",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

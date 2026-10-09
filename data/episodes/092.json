@@ -1,0 +1,84 @@
+{
+  "number": 92,
+  "title": "… bei den Eskimos",
+  "description": "Karla Kolumna macht sich Sorgen um Professor Magneticus, den berühmten Polarforscher. Er hat sich schon lange nicht mehr gemeldet. Nun will Karla selbst zum Nordpol, um nach ihm zu suchen. Benjamin, Otto und auch Egon Eisbär begleiten sie. Die vier treffen auf einen Eskimohäuptling, der über Besuch aber gar nicht erfreut ist!",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Schoß, Gunter"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Prof. Magneticus",
+      "person": "Georer, P."
+    },
+    {
+      "role": "Pepe Propeller",
+      "person": "Holbein, H."
+    },
+    {
+      "role": "Eskimohäuptling",
+      "person": "Voß, Ulrich"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-92/benjamin-bluemchen-bei-den-eskimos",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=4591",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

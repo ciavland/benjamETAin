@@ -1,0 +1,123 @@
+{
+  "number": 56,
+  "title": "... als Reporter",
+  "description": "Benjamin und Otto sind besorgt, denn Karla Kolumna ist krank. Sie erzählt ihnen, dass es dann ab übermorgen wohl keine Neustädter Zeitung geben wird. Da beschließen die beiden, Karla Kolumna zu vertreten, bis sie wieder gesund ist. Als rasende Reporter wollen sie über sensationelle Neuigkeiten berichten. Doch wie findet man die?",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    },
+    {
+      "role": "Anne",
+      "person": "Primel, Antje"
+    },
+    {
+      "role": "Petra",
+      "person": "Vogel, Anne"
+    },
+    {
+      "role": "Jürgen",
+      "person": "Naujocks, Oliver"
+    },
+    {
+      "role": "Herr Frischpress",
+      "person": "Lutter, Axel"
+    },
+    {
+      "role": "Milchfrau",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Pizza Bäcker",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Frau",
+      "person": "Gessner, Tatjana"
+    },
+    {
+      "role": "Mann",
+      "person": "Grote, Manfred"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-56/benjamin-bluemchen-als-reporter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=286",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/056.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

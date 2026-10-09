@@ -1,0 +1,23 @@
+{
+  "number": 140,
+  "title": "Weihnachtsmarkt im Zoo",
+  "description": "Benjamin findet, alle Zootiere sollten zu Weihnachten ein Geschenk bekommen. Doch Herr Tierlieb und Wärter Karl zeigen ihm die leere Zookasse. Um sie zu füllen, schlägt Benjamin vor, einen Weihnachtsmarkt im Zoo zu veranstalten – mit selbstgebastelten Dingen und selbstgebackenen Leckereien. Sofort machen sich alle an die Arbeit!",
+  "release_year": 2018,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-140/benjamin-bluemchen-weihnachtsmarkt-im-zoo",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

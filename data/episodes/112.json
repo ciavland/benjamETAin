@@ -1,0 +1,93 @@
+{
+  "number": 112,
+  "title": "Die Elefantenkönigin",
+  "description": "Benjamin entdeckt am Abendhimmel das Sternbild des Großen Elefanten. Plötzlich werden er, Otto und Stella von dort zu Hilfe gerufen. Mit einem Raumschiff fliegen die drei zur Elefantenkönigin von Tötörözien. Sie sollen einen Streit zwischen ihr und dem Elefantenkönig von Rötötönien schlichten. Doch das ist gar nicht so einfach!",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Königin Phantelia",
+      "person": "V. Sauer"
+    },
+    {
+      "role": "König Lephanto",
+      "person": "A. Lutter"
+    },
+    {
+      "role": "Frau Rötötö",
+      "person": "D. Freundt"
+    },
+    {
+      "role": "Diener",
+      "person": "R. Fritzsche"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-112/benjamin-bluemchen-die-elefantenkoenigin",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=11900",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/112.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

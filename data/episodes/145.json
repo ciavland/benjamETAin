@@ -1,0 +1,23 @@
+{
+  "number": 145,
+  "title": "Zurück auf dem Bauernhof",
+  "description": "Benjamin und Otto besuchen die Familie Humpe auf ihrem Bauernhof in den Bergen. Dort werden sie ganz herzlich empfangen, und gerne helfen sie wieder mit bei der Hofarbeit. Alles läuft prima, doch da gesellt sich zu den vier Ponys der Humpes noch ein fünftes. Wem gehört das bloß? Doch nicht etwa den neuen, unliebsamen Nachbarn?",
+  "release_year": 2020,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-145/benjamin-bluemchen-zurueck-auf-dem-bauernhof",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

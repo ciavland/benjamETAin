@@ -1,0 +1,23 @@
+{
+  "number": 156,
+  "title": "... als Bergretter",
+  "description": "Benjamin und Otto machen mit Herrn Tierlieb Urlaub in den Bergen. Auf der Wanderung zu ihrer Hütte begegnen sie einer Gämseherde. Da gerät ein Kitz in Bergnot: Es wird von seiner Mutter getrennt und fällt in ein Schneeloch. Benjamin und Otto müssen eingreifen, aber können sie ohne Erfahrung und Ausrüstung zu Bergrettern werden?",
+  "release_year": 2023,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-156/benjamin-bluemchen-als-bergretter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

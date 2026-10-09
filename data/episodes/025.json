@@ -1,0 +1,107 @@
+{
+  "number": 25,
+  "title": "... auf Kreuzfahrt",
+  "description": "Zoodirektor Tierlieb hat eine Kreuzfahrt gewonnen. Doch leider ist er krank geworden und so schenkt er sie Benjamin und Otto. Auf dem Luxus-Schiff gefällt es ihnen auch ganz gut. Bloß die anderen Gäste sind ziemlich langweilig. Da lassen sich die beiden Freunde etwas Tolles einfallen, und zwar nicht nur gegen die Langeweile.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Kapitän",
+      "person": "Nägelen, Klaus"
+    },
+    {
+      "role": "Hilde",
+      "person": "Genest, Gudrun"
+    },
+    {
+      "role": "Koch",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Steward",
+      "person": "Schastok, Erwin"
+    },
+    {
+      "role": "Hugo",
+      "person": "Will, Erich"
+    },
+    {
+      "role": "Frau",
+      "person": "Scheerbarth, Margitta"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Kind",
+      "person": "Rückert, Virpy"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-25/benjamin-bluemchen-auf-kreuzfahrt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8071",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/025.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

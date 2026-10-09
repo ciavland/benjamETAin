@@ -1,0 +1,88 @@
+{
+  "number": 62,
+  "title": "... in der Steinzeit",
+  "description": "Im Museum gefallen Benjamin die Höhlenmalereien von der Mammutjagd in der Steinzeit gar nicht. Zurück im Zoo schläft er ein und träumt davon. Plötzlich ist da ein Junge in einem Fell, der aussieht wie Otto. Er hält Benjamin nur für ein komisches Mammut ohne Haare. Ob in Benjamins Traum noch mehr seltsame Dinge geschehen?",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Ottos Mutter",
+      "person": "Merian, Christel"
+    },
+    {
+      "role": "Ottos Vater",
+      "person": "Gauß, Helmut"
+    },
+    {
+      "role": "Museumswärter",
+      "person": "Grote, Manfred"
+    },
+    {
+      "role": "Museumsführer",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Giese, Heinz"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Herbst, Wilfried"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-62/benjamin-bluemchen-der-steinzeit",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=292",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

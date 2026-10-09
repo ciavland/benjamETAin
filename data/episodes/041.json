@@ -1,0 +1,103 @@
+{
+  "number": 41,
+  "title": "… als Pirat",
+  "description": "Benjamin und Otto lesen seit Tagen Piratenbücher und träumen davon, über die Meere zu segeln und Kisten mit Gold und Edelsteinen zu erbeuten. Davon könnte man dann jede Menge Futter für die Zootiere kaufen! Schon besorgt Benjamin zwei Piratenkostüme und am nächsten Morgen fahren sie zur Nordsee. Ob das eine gute Idee ist?",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Kurdirektor",
+      "person": "von Nordhausen, Engelbert"
+    },
+    {
+      "role": "Kostümverleiherin",
+      "person": "Axt, Maria"
+    },
+    {
+      "role": "Erwin",
+      "person": "Ebeling, Hermann"
+    },
+    {
+      "role": "Küstenwache",
+      "person": "Rahn, Manfred"
+    },
+    {
+      "role": "Bahnhofsvorstand",
+      "person": "Holtenau, Gerd"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-41/benjamin-bluemchen-als-pirat",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8084",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/041.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

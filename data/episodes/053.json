@@ -1,0 +1,72 @@
+{
+  "number": 53,
+  "title": "... wird reich",
+  "description": "Benjamin träumt von einer Glücksfee, die ihm sechs Zahlen zuruft. Er tippt die Zahlen dann im Lotto und gewinnt tatsächlich eine Million! Leider kann er sich nicht so richtig darüber freuen: Es ist wirklich unglaublich, wie viele Leute nun an sein Geld wollen. Doch plötzlich strahlt Benjamin wieder, denn er hat eine großartige Idee!",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Feuerwehrhauptmann",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-53/benjamin-bluemchen-wird-reich",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=273",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

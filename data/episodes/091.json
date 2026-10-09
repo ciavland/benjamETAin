@@ -1,0 +1,68 @@
+{
+  "number": 91,
+  "title": "… als Leuchtturmwärter",
+  "description": "Auf der Insel Nordersand wird eine Vertretung für den Leuchtturmwärter gesucht. Benjamin und Otto springen ein: Sie sollen dafür sorgen, dass das Leuchtturmlicht nachts nicht ausgeht. Und sie müssen gut auf die Nester sehr seltener Vögel aufpassen, die gerade auf der Insel brüten. Ein Dieb scheint es auf ihre Eier abgesehen zu haben!",
+  "release_year": 2000,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Kluckert, Jürgen"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Zoodirektor Herr Tierlieb",
+      "person": "Vaessen, Eric"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Ulli Herzog / Klaus-P. Weigand"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-91/benjamin-bluemchen-als-leuchtturmwaerter",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=3710",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

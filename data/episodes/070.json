@@ -1,0 +1,72 @@
+{
+  "number": 70,
+  "title": "… und Bibi in Indien",
+  "description": "Der Maharadscha von Wischnipur lädt Benjamin in seinen Palast ein, denn Nandu, sein weißer Lieblingselefant, ist ständig traurig. Nur Benjamin kann ihn in Elefantensprache fragen, was los ist. Otto, Karla Kolumna und auch Bibi Blocksberg begleiten ihren Freund nach Indien. Ob der liebste Elefant der Welt Nandu wirklich helfen kann?",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bibi Blocksberg",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Maharadscha",
+      "person": "Rode, Christian"
+    },
+    {
+      "role": "Sanur",
+      "person": "Thormann, Jürgen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-70/benjamin-bluemchen-und-bibi-indien",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=300",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 133,
+  "title": "... auf dem Flughafen",
+  "description": "Neustadts berühmter Erfinder Eddi Eddison zeigt Benjamin, Otto und Stella auf dem Flughafen die neue Gepäck-Transport-Anlage, die er gebaut hat. Leider stößt Benjamin aus Versehen an das Steuerpult, drückt alle Knöpfe gleichzeitig und es entsteht ein Riesen-Koffer-Chaos. Das müssen die Freunde natürlich schnellstens beseitigen!",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-133/benjamin-bluemchen-auf-dem-flughafen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

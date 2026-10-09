@@ -1,0 +1,76 @@
+{
+  "number": 27,
+  "title": "... auf dem Bauernhof",
+  "description": "Mit der Bahn fahren Benjamin und Otto in die Berge. Sie wollen auf einem Bauernhof Urlaub machen. Und es ist auch richtig schön dort. Aber Bauer Humpe ist besorgt. Die Ernte muss vor dem Regen noch eingebracht werden und sein Traktor ist kaputt! Doch Benjamin und Otto haben schon eine gute Idee, wie sie ihm helfen können.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Zoodirektor Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Bäuerin",
+      "person": "Groß, Marianne"
+    },
+    {
+      "role": "Bauer",
+      "person": "Krauss, Helmut"
+    },
+    {
+      "role": "Anni – Tochter der Bäuerin und des Bauers",
+      "person": "Bogdan, Volker (junior)"
+    },
+    {
+      "role": "Rabe Gulliver",
+      "person": "Ziffer, Wolfgang"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-27/benjamin-bluemchen-auf-dem-bauernhof",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8073",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

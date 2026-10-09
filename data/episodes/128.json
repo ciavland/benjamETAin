@@ -1,0 +1,23 @@
+{
+  "number": 128,
+  "title": "... und die Schnitzeljagd",
+  "description": "Heute findet im Zoo ein Kinderfest mit Schnitzeljagd statt. Herr Tierlieb und Wärter Karl haben alles vorbereitet. Benjamin tritt mit einer Gruppe Kinder gegen Stella, Otto und deren Team an. Die Jagd führt durch Neustadt, es gibt viele Stationen mit zu lösenden Aufgaben. Leider stören Unbekannte den Spaß. Wer kann das nur sein?",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-128/benjamin-bluemchen-und-die-schnitzeljagd",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

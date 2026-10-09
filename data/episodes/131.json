@@ -1,0 +1,54 @@
+{
+  "number": 131,
+  "title": "… auf großer Floßfahrt",
+  "description": "Im Naturschutzgebiet am Fluss Triller machen Kraniche auf dem Flug nach Süden Pause. Das will Neustadts rasende Reporterin Karla Kolumna fotografieren. Mit dem Motorboot darf man nicht an diese Stelle. Also bauen Benjamin, Otto und Stella ein Floß und begeben sich zusammen mit Frau Kolumna auf eine abenteuerliche Reise dorthin!",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": 2520,
+  "cast": [],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-131/benjamin-bluemchen-auf-grosser-flossfahrt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=16872",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

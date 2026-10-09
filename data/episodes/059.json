@@ -1,0 +1,70 @@
+{
+  "number": 59,
+  "title": "... findet einen Schatz",
+  "description": "Am Flussufer findet Benjamin eine Glasflasche mit einem eigenartigen Blatt Papier darin: eine uralte Flaschenpost! Neugierig faltet er das Papier auseinander: Es ist eine richtige Schatzkarte. Sie verweist auf einen Ort namens „Urbs Nova“. Doch wo kann dieser geheimnisvolle Ort sein? Benjamin und Otto machen sich auf die Suche.",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Rosenberg, Alexander"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Hanft, Andreas"
+    },
+    {
+      "role": "Bibliothekar",
+      "person": "Ahner, Helmut"
+    },
+    {
+      "role": "Frau",
+      "person": "Gessner, Tatjana"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-59/benjamin-bluemchen-findet-einen-schatz",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=289",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "title"
+      ]
+    }
+  ]
+}

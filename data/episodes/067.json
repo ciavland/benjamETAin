@@ -1,0 +1,46 @@
+{
+  "number": 67,
+  "title": "Meine schönsten Lieder",
+  "description": "1. Ramba-Zamba 3:05 • 2. Ich bin der Butler Benjamin 3:33 • 3. ´ne Ballonfahrt, die ist luftig 3:08 • 4. Wo ist Otto? 2:24 • 5. Das Steinzeitlied 3:24 • 6. Törööö, die Feuerwehr 3:03 • 7. Der Bauerntanz 3:01 • 8. Heut kocht für uns ein Elefant 3:03 • 9. Wir sausen durch das Wolkenmeer 3:08 • 10. Ritter Benjamin 2:35 • 11. Hallo, Taxi! 3:12 • 12. Auf hoher See 2:54",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Constanze"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-67/benjamin-bluemchen-meine-schoensten-lieder",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=297",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "title"
+      ]
+    }
+  ]
+}

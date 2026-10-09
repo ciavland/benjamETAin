@@ -1,0 +1,23 @@
+{
+  "number": 143,
+  "title": "Die Halloween-Nacht",
+  "description": "Benjamin möchte sich zu Halloween verkleiden und mit Otto von Haus zu Haus ziehen. Also näht ihm Herr Tierlieb ein schönes Kürbis-Kostüm. Otto geht als gruseliges Gerippe und als es dunkel ist, laufen sie los. Da begegnen sie der kleinen Marie. Ihr Süßigkeiten-Beutel wurde gestohlen! Gemeinsam suchen sie nach dem Dieb.",
+  "release_year": 2019,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-143/benjamin-bluemchen-die-halloweennacht",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "title": "Die verrückte Reise",
+  "description": "Benjamin hat eine Reise ans Meer gewonnen. Zusammen mit seinem besten Freund Otto macht er sich auf den Weg. Doch dann fährt ihnen der Zug vor der Nase weg und ihr Koffer ist futsch. Sie beschließen, sich dann eben anders zum Ziel durchzuschlagen und eh sie sich‘s versehen, beginnt ihre verrückte Reise voller Abenteuer.",
+  "release_year": 2026,
+  "release_date": null,
+  "duration_seconds": null,
+  "cast": [],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-169/benjamin-bluemchen-die-verrueckte-reise",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

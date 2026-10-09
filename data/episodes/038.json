@@ -1,0 +1,123 @@
+{
+  "number": 38,
+  "title": "Der Zoo zieht um",
+  "description": "Weil die Zootiere viel zu wenig Platz haben, hat der Bürgermeister von Neustadt dem Zoo ein Stück vom Stadtpark abgegeben. Benjamin ist sehr glücklich darüber und der Umzug beginnt schon bald. Alle helfen Zoodirektor Tierlieb. Sogar Bibi Blocksberg, die kleine Hexe, ist dabei. Doch sie hat plötzlich eine ganz verrückte Idee!",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Primel, Kai"
+    },
+    {
+      "role": "Bibi Blocksberg Susanna Bonaséwicz",
+      "person": "Bonaséwicz, Susanna"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "Wagner, Hermann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Landrat",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Chauffeur",
+      "person": "Kreklau, Rüdiger"
+    },
+    {
+      "role": "Kiosk-Besitzerin",
+      "person": "Gerstel, Ursula"
+    },
+    {
+      "role": "Krokodile",
+      "person": "Rahn, Manfred"
+    },
+    {
+      "role": "Eisbärmutter",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Eisbärbaby",
+      "person": "Rückert, Virpy"
+    },
+    {
+      "role": "Tiger",
+      "person": "Tieck , A."
+    },
+    {
+      "role": "Garfield",
+      "person": "von Ulmann, Joachim"
+    },
+    {
+      "role": "Nachrichtensprecher",
+      "person": "Herzog, Ulli"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten Brüse"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-38/benjamin-bluemchen-der-zoo-zieht-um",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=5210",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/038.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

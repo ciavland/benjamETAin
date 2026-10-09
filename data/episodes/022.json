@@ -1,0 +1,119 @@
+{
+  "number": 22,
+  "title": "... als Kinderarzt",
+  "description": "Benjamins Freund Otto hat die Masern und muss im Bett bleiben. Allein ist es aber immer so langweilig und so schlendert er betrübt durch Neustadt. Da erfährt er, dass auch der Kinderarzt Masern hat. Vielleicht kann Benjamin ja für ihn einspringen? Den Kindern gefällt es und Karla Kolumna hilft ihm bei einem schwierigen Fall.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Ottos Mutter",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "Hagen, Till"
+    },
+    {
+      "role": "Dr. Wunderlich",
+      "person": "Czarski, Otto"
+    },
+    {
+      "role": "Sanitäter",
+      "person": "Herzog, Alexander"
+    },
+    {
+      "role": "Frau",
+      "person": "Werth, Eva-Maria"
+    },
+    {
+      "role": "Frau",
+      "person": "Elsholtz, Edith"
+    },
+    {
+      "role": "Frau",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Mädchen",
+      "person": "Rückert, Virpy"
+    },
+    {
+      "role": "Uwe",
+      "person": "Zachariae, Carsten"
+    },
+    {
+      "role": "Autofahrer",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Radioansager",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-22/benjamin-bluemchen-als-kinderarzt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8069",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/022.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

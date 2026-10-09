@@ -1,0 +1,104 @@
+{
+  "number": 14,
+  "title": "... als Filmstar",
+  "description": "Als Benjamin durch Neustadt spaziert, wird er für den Film entdeckt: als Grusel-Elefant! Anderen Angst machen möchte der liebste Elefant der Welt aber auf keinen Fall. Otto ist von der seltsamen Idee auch nicht begeistert: Allerdings könnte Benjamin doch mit dem, was er als gruseliger Elefant verdient, wieder etwas Gutes tun.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 3000,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Nottke, Joachim"
+    },
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Ott, Edgar"
+    },
+    {
+      "role": "Otto",
+      "person": "Schaff-Langhans, Frank"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Fritsch, Gisela"
+    },
+    {
+      "role": "Regisseur",
+      "person": "Behrens, Stefan"
+    },
+    {
+      "role": "Kameramann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Maskenbildnerin",
+      "person": "Schnell-Neu, Christine"
+    },
+    {
+      "role": "Tonmann",
+      "person": "Herzog, Ulli"
+    },
+    {
+      "role": "Kind",
+      "person": "Rybakowski, Natascha"
+    },
+    {
+      "role": "Frau",
+      "person": "Bruckhaus, Hallgerd"
+    },
+    {
+      "role": "Mann",
+      "person": "Herzog, Alexander"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Walter Scheerbarth"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-14/benjamin-bluemchen-als-filmstar",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiele.de/hsp_anzeige.asp?code=8063",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoernews.de/Bluemchen/014.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "production",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}
