@@ -66,7 +66,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426508-427508",
+      "EAN": [
+        "4001504265083",
+        "4001504275082",
+        "4033694265086"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-8/benjamin-bluemchen-auf-dem-baum",
@@ -97,6 +108,18 @@
         "duration_seconds",
         "production",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-auf-dem-baum-folge-8.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

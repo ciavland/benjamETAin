@@ -58,7 +58,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426504-427504",
+      "EAN": [
+        "4001504265045",
+        "4001504275044",
+        "4033694265048"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-4/benjamin-bluemchen-afrika",
@@ -89,6 +100,18 @@
         "duration_seconds",
         "production",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-in-afrika-folge-4.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

@@ -58,7 +58,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426599-427599",
+      "EAN": [
+        "4001504265991",
+        "4001504275990",
+        "4033694265994"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-99/benjamin-bluemchen-der-geheimgang",
@@ -76,6 +87,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-der-geheimgang-folge-99.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

@@ -46,7 +46,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426530-427530",
+      "EAN": [
+        "4001504265304",
+        "4001504275303",
+        "4033694265307"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-30/benjamin-bluemchen-als-pilot",
@@ -64,6 +75,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-als-pilot-folge-30.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

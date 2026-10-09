@@ -70,7 +70,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426525-427525",
+      "EAN": [
+        "4001504265250",
+        "4001504275259",
+        "4033694265253"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-25/benjamin-bluemchen-auf-kreuzfahrt",
@@ -99,6 +110,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-auf-kreuzfahrt-folge-25.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

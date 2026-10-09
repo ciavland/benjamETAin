@@ -78,7 +78,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426552-427552",
+      "EAN": [
+        "4001504265526",
+        "4001504275525",
+        "4033694265529"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-52/benjamin-bluemchen-der-weihnachtstraum",
@@ -96,6 +107,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-der-weihnachtstraum-folge-52.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

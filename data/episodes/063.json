@@ -58,7 +58,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426563-427563",
+      "EAN": [
+        "4001504265632",
+        "4001504275631",
+        "4033694265635"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-63/benjamin-bluemchen-der-computer",
@@ -76,6 +87,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-der-computer-folge-63.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

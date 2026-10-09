@@ -4,11 +4,100 @@
   "description": "Wachtmeister Krause ist so überarbeitet, er hätte gerne mal einen Tag frei. Kein Problem! Benjamin, Otto und Stella springen für ihn ein. Sie bekommen alles, was ein Polizist so braucht und finden ganz neue Wege, um Falschparker und Raser zur Vernunft zu bringen! Ob sie auch einen lange gesuchten Dieb überführen können?",
   "release_year": 2012,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2460,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Pichler",
+      "person": "W. Herbst"
+    },
+    {
+      "role": "Wachtmeister Krause",
+      "person": "J. Döring"
+    },
+    {
+      "role": "Frau Grimm",
+      "person": "D. Rosenthal"
+    },
+    {
+      "role": "Lukas",
+      "person": "J. Frenz"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425522-428522",
+      "EAN": [
+        "4001504255220",
+        "4001504285227",
+        "4033694255223"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-122/benjamin-bluemchen-als-polizist",
@@ -16,6 +105,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-als-polizist-folge-122.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

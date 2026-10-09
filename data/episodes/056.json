@@ -86,7 +86,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426556-427556",
+      "EAN": [
+        "4001504265564",
+        "4001504275563",
+        "4033694265567"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-56/benjamin-bluemchen-als-reporter",
@@ -116,6 +127,18 @@
         "description",
         "production",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-als-reporter-folge-56.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

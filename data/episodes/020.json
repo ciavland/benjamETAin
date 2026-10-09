@@ -66,7 +66,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426520-427520",
+      "EAN": [
+        "4001504265205",
+        "4001504275204",
+        "4033694265208"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-20/benjamin-bluemchen-und-bibi-blocksberg",
@@ -97,6 +108,18 @@
         "duration_seconds",
         "production",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-und-bibi-blocksberg-folge-20.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

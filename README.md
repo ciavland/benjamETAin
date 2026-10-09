@@ -41,7 +41,6 @@ Der HTTP-Cache liegt in `.cache/`. `python3 scripts/update.py --refresh` lädt a
 
 ## Quellen und Abgrenzung
 
-Der Import kombiniert die offizielle [Hörspielliste](https://www.benjaminbluemchen.de/hoerspielliste) mit Detaildaten von [Hoerspiele.de](https://www.hoerspiele.de/hsp_serie.asp?serie=24) und [HörNews](https://www.hoernews.de/Bluemchen/). Specials, Filme, Bücher, Coverbilder und Streaming-IDs sind vorerst nicht enthalten. Den exakten Stand dokumentiert `REPORT.md`.
+Der Import kombiniert die offizielle [Hörspielliste](https://www.benjaminbluemchen.de/hoerspielliste) und ihre verlinkten [KIDDINX-Shop-Produktkarten](https://www.kiddinx-shop.de/benjamin-blumchen-in-australien-folge-170.html) mit Detaildaten von [Hoerspiele.de](https://www.hoerspiele.de/hsp_serie.asp?serie=24) und [HörNews](https://www.hoernews.de/Bluemchen/). Specials, Filme, Bücher, Coverbilder und Streaming-IDs sind vorerst nicht enthalten. Den exakten Stand dokumentiert `REPORT.md`.
 
 Die MIT-Lizenz gilt nur für den Code. Für importierte Texte und Marken gelten die Hinweise in [DATA-LICENSE.md](DATA-LICENSE.md).
-

@@ -3,18 +3,109 @@
   "title": "... als Rettungselefant",
   "description": "Weil die Feuerwehr zu viel zu tun hat, müssen Benjamin und Otto die Katze von Frau Drahtmeier vom Baum retten. Deswegen beschließen sie, einen Tierrettungs-Notdienst einzurichten. Sie bauen ein altes Fahrradtaxi zum Rettungsrad um und Frau Kolumna setzt sich in die Telefonzentrale. Und schon geht es los mit den Notfalleinsätzen",
   "release_year": 2021,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2021-04-23",
+  "duration_seconds": 3300,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "S. Krause"
+    },
+    {
+      "role": "Frau Drahtmeier",
+      "person": "L. Lunow"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios GmbH"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Madlen Frey, Till Bayreuther"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425548-428548",
+      "EAN": [
+        "4001504255480",
+        "4001504285487",
+        "4033694255483"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-148/benjamin-bluemchen-als-rettungselefant",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-rettungselefant-folge-148.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

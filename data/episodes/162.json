@@ -3,18 +3,117 @@
   "title": "Ärger mit Rudi Raffke",
   "description": "Zoodirektor Tierlieb kann die Rechnung des Tierfutterhändlers Rudi Raffke nicht bezahlen, weil dieser die Preise stark erhöht hat. Er bittet um einen kurzen Aufschub, doch dafür verlangt der Händler ein Pfand zur Sicherheit. Benjamin bietet sich selbst an und kommt mit zu Rudi Raffke nach Hause. Das hat ungeahnte Folgen",
   "release_year": 2025,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2025-01-24",
+  "duration_seconds": 2640,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Tierpfleger Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Rudi Raffke",
+      "person": "L. Schnell"
+    },
+    {
+      "role": "Briefträger Pampelmann",
+      "person": "J. Berenz"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Alleinsein“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425562-428562",
+      "EAN": [
+        "4001504255626",
+        "4001504285623",
+        "4033694255629"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-162/benjamin-bluemchen-aerger-mit-rudi-raffke",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-arger-mit-rudi-raffke-folge-162.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

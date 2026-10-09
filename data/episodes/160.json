@@ -3,18 +3,105 @@
   "title": "... als Höhlenforscher",
   "description": "Benjamin überzeugt Otto davon, mit ihm noch einmal in die Neustädter Höhlen zu gehen. Der Berg, in dem diese sich befinden, soll früher ein Vulkan gewesen sein, aber es fehlt noch der Beweis dafür. Den wollen sie gemeinsam finden und dringen immer tiefer in den Untergrund vor. Dabei verlaufen sie sich im verzweigten Höhlensystem!",
   "release_year": 2024,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2024-09-13",
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Fanny Feuerberg",
+      "person": "D. Hoffmann"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Vulkane“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425560-428560",
+      "EAN": [
+        "4001504255602",
+        "4001504285609",
+        "4033694255605"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-160/benjamin-bluemchen-als-hoehlenforscher",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-hoehlenforscher-folge-160.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

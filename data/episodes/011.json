@@ -3,7 +3,7 @@
   "title": "… auf dem Mond",
   "description": "In einer Sommernacht schaut Benjamin zum Mond. Er kann nicht glauben, dass Augen, Nase und Mund nur Gebirge und Täler sein sollen. Am liebsten würde er hinauffliegen und nachschauen. Da erfährt er von Otto, dass gerade Astronauten gesucht werden. Benjamin beschließt, sich zu melden. Ob er aber wirklich zum Mond fliegen wird?",
   "release_year": 1980,
-  "release_date": null,
+  "release_date": "1980-01-01",
   "duration_seconds": 3000,
   "cast": [
     {
@@ -62,7 +62,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426511-427511",
+      "EAN": [
+        "4001504265113",
+        "4001504275112",
+        "4033694265116"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-11/benjamin-bluemchen-auf-dem-mond",
@@ -92,6 +103,20 @@
         "description",
         "duration_seconds",
         "production",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-auf-dem-mond-folge-11.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

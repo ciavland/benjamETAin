@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 from datetime import datetime, timezone
 from typing import Any
@@ -77,6 +78,80 @@ def parse_official_detail(html: str, item: dict[str, Any], retrieved_at: str | N
             episode["description"] = clean(paragraph.get_text(" ", strip=True))
     fields = [key for key in ("title", "description", "release_year") if episode[key]]
     episode["sources"] = [source(item["url"], retrieved_at, fields)]
+    return episode
+
+
+def parse_shop_url(html: str) -> str | None:
+    soup = BeautifulSoup(html, "html.parser")
+    link = soup.find("a", href=True, string=lambda value: value and "Zum Shop" in clean(value))
+    if not link:
+        return None
+    return str(link["href"]).replace("http://www.kiddinx-shop.de/", "https://www.kiddinx-shop.de/")
+
+
+def parse_shop_detail(html: str, number: int, url: str, retrieved_at: str | None = None) -> dict[str, Any] | None:
+    retrieved_at = retrieved_at or datetime.now(timezone.utc).date().isoformat()
+    soup = BeautifulSoup(html, "html.parser")
+    container = soup.select_one(".product-info-secondary")
+    if not container:
+        return None
+    title_node = container.select_one(".medium-4 .title")
+    title_text = clean(title_node.get_text(" ", strip=True)) if title_node else ""
+    product_number = re.search(r"Folge\s+(\d+)", title_text, re.I)
+    if product_number and int(product_number.group(1)) != number:
+        return None
+
+    episode = empty_episode(number)
+    episode["title"] = clean(re.sub(r"^Folge\s+\d+\s*[-–:]\s*", "", title_text)) or None
+    description = title_node.find_next_sibling("p") if title_node else None
+    if description:
+        episode["description"] = clean(description.get_text(" ", strip=True))
+
+    metadata: dict[str, str] = {}
+    for row in container.select("table tr"):
+        cells = row.find_all("td", recursive=False)
+        if len(cells) == 2:
+            metadata[clean(cells[0].get_text(" ", strip=True)).removesuffix(":")] = clean(cells[1].get_text(" ", strip=True))
+    duration = re.search(r"(\d+)\s*min", metadata.get("Spieldauer", ""), re.I)
+    if duration:
+        episode["duration_seconds"] = int(duration.group(1)) * 60
+    published = re.fullmatch(r"(\d{2})\.(\d{2})\.(\d{4})", metadata.get("Veröffentlicht", ""))
+    if published:
+        episode["release_date"] = f"{published.group(3)}-{published.group(2)}-{published.group(1)}"
+        episode["release_year"] = int(published.group(3))
+
+    toggle = container.select_one(".secondary-toggle")
+    if toggle:
+        sections = {clean(node.get_text(" ", strip=True)): node.find_next_sibling("p") for node in toggle.select(":scope > .title")}
+        production_section = sections.get("Produktion")
+        for line in production_section.get_text("\n", strip=True).splitlines() if production_section else []:
+            line = clean(line)
+            if ":" in line:
+                credit, value = line.split(":", 1)
+                if clean(credit) and clean(value):
+                    episode["production"].append({"credit": clean(credit), "value": clean(value)})
+        cast_section = sections.get("Sprecher")
+        for line in cast_section.get_text("\n", strip=True).splitlines() if cast_section else []:
+            line = clean(line)
+            if ":" in line:
+                role, person = line.split(":", 1)
+                if clean(role) and clean(person):
+                    episode["cast"].append({"role": clean(role), "person": clean(person)})
+            elif line.startswith("Erzähler "):
+                episode["cast"].append({"role": "Erzähler", "person": clean(line.removeprefix("Erzähler "))})
+
+    edition: dict[str, Any] = {}
+    for label in ("Erschienen bei", "Altersempfehlung", "SKU"):
+        if metadata.get(label):
+            edition[label] = metadata[label]
+    eans = sorted(set(re.findall(r'"ean"\s*:\s*"(\d{8,14})"', html)))
+    if eans:
+        edition["EAN"] = eans
+    if edition:
+        episode["editions"] = [edition]
+
+    fields = [key for key in ("title", "description", "release_year", "release_date", "duration_seconds", "cast", "production", "editions") if episode[key]]
+    episode["sources"] = [source(url, retrieved_at, fields)]
     return episode
 
 
@@ -221,7 +296,7 @@ def merge_episode(primary: dict[str, Any], secondary: dict[str, Any]) -> dict[st
         unique = []
         seen = set()
         for item in merged[key]:
-            marker = tuple(sorted(item.items()))
+            marker = json.dumps(item, ensure_ascii=False, sort_keys=True)
             if marker not in seen:
                 seen.add(marker)
                 unique.append(item)

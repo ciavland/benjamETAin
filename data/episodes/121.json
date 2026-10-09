@@ -4,11 +4,92 @@
   "description": "Benjamin, Otto und Stella stellen fest, in Neustadt gibt es zu wenig Radwege. Doch der Bürgermeister will keine neuen bauen lassen. Er behauptet, das Auto sei das Fahrzeug der Zukunft. Das sehen die Freunde anders und fordern einen Wettkampf: ihr Rad gegen sein Auto. Wenn sie gewinnen, muss er neue Radwege bauen. Top, die Wette gilt!",
   "release_year": 2012,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2160,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "W. Herbst"
+    },
+    {
+      "role": "Frans van de Fietsen",
+      "person": "Ch. Banken"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425521-428521",
+      "EAN": [
+        "4001504255213",
+        "4001504285210",
+        "4033694255216"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-121/benjamin-bluemchen-die-fahrradwette",
@@ -16,6 +97,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-die-fahrrad-wette-folge-121.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

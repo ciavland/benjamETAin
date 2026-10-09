@@ -7,6 +7,7 @@ Jeder Folgendatensatz nennt Quellen und Abrufdatum. Reine Fakten wie Titel, Bese
 Aktuell verwendete Quellen:
 
 - <https://www.benjaminbluemchen.de/hoerspielliste> – offizielle Folgenübersicht, Erscheinungsjahre und Beschreibungen.
+- <https://www.kiddinx-shop.de/> – offizielle Produktkarten mit Besetzung, Produktion, Laufzeiten, Veröffentlichung und EAN/SKU.
 - <https://www.hoerspiele.de/hsp_serie.asp?serie=24> – Folgen, Besetzung, Laufzeiten und Produktionsangaben.
 - <https://www.hoernews.de/Bluemchen/> – ergänzende Besetzungs- und Produktionsangaben ausgewählter Folgen.
 

@@ -3,18 +3,121 @@
   "title": "Zuckerstückchen-Express",
   "description": "Benjamin braucht dringend Zuckerstückchen und wartet mit Otto auf den Zug, der neue bringen soll. Im Bahnhof steht auch Baron von Zwiebelschreck, denn seine berühmte Zuckerstückchen-Sammlung kommt mit diesem Zug aus einem Museum zurück. Doch alle warten vergebens. Schließlich machen sie sich gemeinsam auf die Suche nach dem Zug!",
   "release_year": 2020,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2020-01-24",
+  "duration_seconds": 2580,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Baron von Zwiebelschreck",
+      "person": "F. G. Beckhaus"
+    },
+    {
+      "role": "Hinki",
+      "person": "M. Pan"
+    },
+    {
+      "role": "Pinki",
+      "person": "J. Kaps"
+    },
+    {
+      "role": "Siegfried Süß",
+      "person": "F. Ciazynski"
+    },
+    {
+      "role": "Gisela Gleis",
+      "person": "P. Peters-Arnolds"
+    },
+    {
+      "role": "Bodo Bimmel",
+      "person": "A. Lutter"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Madlen Frey, Till Bayreuther"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425544-428544",
+      "EAN": [
+        "4001504255442",
+        "4001504285449",
+        "4033694255445"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-144/benjamin-bluemchen-zuckerstueckchenexpress",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-der-zuckerstuckchen-express-folge-144.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

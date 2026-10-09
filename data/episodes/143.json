@@ -3,18 +3,109 @@
   "title": "Die Halloween-Nacht",
   "description": "Benjamin möchte sich zu Halloween verkleiden und mit Otto von Haus zu Haus ziehen. Also näht ihm Herr Tierlieb ein schönes Kürbis-Kostüm. Otto geht als gruseliges Gerippe und als es dunkel ist, laufen sie los. Da begegnen sie der kleinen Marie. Ihr Süßigkeiten-Beutel wurde gestohlen! Gemeinsam suchen sie nach dem Dieb.",
   "release_year": 2019,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2019-10-11",
+  "duration_seconds": 2640,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Marie",
+      "person": "S. Alles"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Herr Magermilch",
+      "person": "K. Eichel"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Madlen Frey, Till Bayreuther"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425543-428543",
+      "EAN": [
+        "4001504255435",
+        "4001504285432",
+        "4033694255438"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-143/benjamin-bluemchen-die-halloweennacht",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-die-halloween-nacht-folge-143.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

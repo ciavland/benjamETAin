@@ -3,18 +3,109 @@
   "title": "Nachts in der Erfinderwerkstatt",
   "description": "Benjamin und Otto werden von Eddi Eddison gebeten, eine Nacht in seiner Werkstatt zu verbringen. Sie sollen seine Erfindung für die Erfindermesse bewachen, denn er muss die Alarmanlage des Herrn Bürgermeisters reparieren. Und andere Erfinder wollen unbedingt herausfinden, was er gebaut hat. Das wird eine sehr turbulente Nacht!",
   "release_year": 2019,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2019-01-25",
+  "duration_seconds": 2400,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "S. Ziesmer"
+    },
+    {
+      "role": "Zyprian Zweistein",
+      "person": "L. Wietzorek"
+    },
+    {
+      "role": "Brigitte Bruch",
+      "person": "M. Treger"
+    },
+    {
+      "role": "Norbert Nobel",
+      "person": "H. Effenberg"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425541-428541",
+      "EAN": [
+        "4001504255411",
+        "4001504285418",
+        "4033694255414"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-141/benjamin-bluemchen-nachts-der-erfinderwerkstatt",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-nachts-in-der-erfinderwerkstatt-folge-141.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

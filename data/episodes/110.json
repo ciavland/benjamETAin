@@ -5,7 +5,36 @@
   "release_year": 2008,
   "release_date": null,
   "duration_seconds": 3000,
-  "cast": [],
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Evers"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Herr Wang",
+      "person": "J. Thormann"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
   "production": [
     {
       "credit": "Buch",
@@ -21,7 +50,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425510-428510",
+      "EAN": [
+        "4001504255107",
+        "4001504285104",
+        "4033694255100"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-110/benjamin-bluemchen-hilfe-fuer-das-pandababy",
@@ -38,6 +78,18 @@
       "fields": [
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-hilfe-fuer-das-pandababy-folge-110.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

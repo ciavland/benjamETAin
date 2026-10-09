@@ -5,10 +5,99 @@
   "release_year": 2017,
   "release_date": null,
   "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Nonna Clara",
+      "person": "M. Bielenstein"
+    },
+    {
+      "role": "Rebecca Rossini",
+      "person": "S. Jakobs"
+    },
+    {
+      "role": "Rieke Rossini",
+      "person": "C. Gawlich"
+    },
+    {
+      "role": "Riccardo Rossini",
+      "person": "F. Schaff"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425534-428534",
+      "EAN": [
+        "4001504255343",
+        "4001504285340",
+        "4033694255346"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-134/benjamin-bluemchen-abschied-von-stella",
@@ -16,6 +105,17 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-abschied-von-stella-folge-134.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
         "title"
       ]
     }

@@ -4,7 +4,7 @@
   "description": "Benjamin, Otto, Stella und Förster Waldmann bauen im Wald einen Abenteuer-Spielplatz für Kinder. Doch in der letzten Nacht vor dem großen Eröffnungsfest wird der Platz verwüstet und das restliche Bauholz gestohlen. Benjamin und seine Freunde müssen die Diebe und das Holz finden - sonst wird der Spielplatz nicht fertig!",
   "release_year": 2010,
   "release_date": null,
-  "duration_seconds": null,
+  "duration_seconds": 2640,
   "cast": [
     {
       "role": "Erzähler",
@@ -70,7 +70,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425513-428513",
+      "EAN": [
+        "4001504255138",
+        "4001504285135",
+        "4033694255131"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-113/benjamin-bluemchen-der-abenteuerspielplatz",
@@ -87,6 +98,18 @@
       "fields": [
         "cast",
         "description",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-der-abenteuer-spielplatz-folge-113.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

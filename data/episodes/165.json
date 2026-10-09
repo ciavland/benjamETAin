@@ -4,11 +4,104 @@
   "description": "Der Zoo bekommt einen kurzzeitigen Gast: Papu Paradiesvogel. Er hat ein kunterbuntes Federkleid, lange Schwanzfedern und verhält sich so besonders, wie er aussieht. Benjamin verspricht, gut auf Papu aufzupassen. Doch dann büxt der Vogel aus, fliegt davon und Benjamin muss ihn wiederfinden. Eine Suche durch ganz Neustadt beginnt!",
   "release_year": 2025,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 3540,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "S. Krause"
+    },
+    {
+      "role": "Paola Pinupaka",
+      "person": "M. Bielenstein"
+    },
+    {
+      "role": "Papu",
+      "person": "C. Gawlich"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Grafik",
+      "value": "dreispur GmbH"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Paradiesvogel“ + Mini-Hörspiel"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425565-428565",
+      "EAN": [
+        "4001504255657",
+        "4001504285654",
+        "4033694255650"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-165/benjamin-bluemchen-der-paradiesvogel",
@@ -16,6 +109,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-der-paradiesvogel-folge-165.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

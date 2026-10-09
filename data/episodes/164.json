@@ -3,18 +3,123 @@
   "title": "... als Eisverkäufer",
   "description": "Benjamin und Otto spielen Fußball und kicken aus Versehen der Eisverkäuferin Frida Frost die Brille von der Nase. Wer soll jetzt ihren Eiswagen fahren und ihr Eis verkaufen, während sie sich eine neue Brille machen lässt? Klar, dass die beiden einspringen und bimmelnd durch Neustadt fahren. Allerdings geht dabei einiges schief!",
   "release_year": 2025,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2025-06-20",
+  "duration_seconds": 2640,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Baron von Zwiebelschreck",
+      "person": "G. Schaale"
+    },
+    {
+      "role": "Herr Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "S. Krause"
+    },
+    {
+      "role": "Frida Frost",
+      "person": "L. Morgenstern"
+    },
+    {
+      "role": "Pelle",
+      "person": "S. Tkotsch"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Jens-Christian Seele"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Grafik",
+      "value": "dreispur GmbH"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Eisspezialitäten“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425564",
+      "EAN": [
+        "4001504255640"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-164/benjamin-bluemchen-als-eisverkaeufer",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-eisverkaufer-folge-164-cd.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

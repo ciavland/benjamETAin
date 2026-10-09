@@ -3,18 +3,113 @@
   "title": "... als Wikinger",
   "description": "Benjamin und Otto sind im Wikinger-Fieber! Sie tragen Kostüme und bauen sich ein Drachenschiff. Zusammen mit Wilhelm und Wilhelmine, dem Neffen und der Nichte des Barons von Zwiebelschreck, wollen sie auf große Fahrt gehen. Doch von Karla Kolumna ernten sie dafür nur Spott. Werden die Freunde beweisen, dass sie echte Entdecker sind?",
   "release_year": 2020,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2020-10-09",
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Wilhelmine",
+      "person": "L. Wietzorek"
+    },
+    {
+      "role": "Wilhelm",
+      "person": "L. Betz"
+    },
+    {
+      "role": "Frau Krause",
+      "person": "J. Blankenburg"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Laura Pazen"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios GmbH"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Madlen Frey, Till Bayreuther"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425546-428546",
+      "EAN": [
+        "4001504255466",
+        "4001504285463",
+        "4033694255469"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-146/benjamin-bluemchen-als-wikinger",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-wikinger-folge-146.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

@@ -4,11 +4,96 @@
   "description": "Benjamin und Otto staunen, als Kasimir, das Gespenst von Burg Eintracht, in den Zoo schwebt. Die Burg wird renoviert und er braucht eine Unterkunft auf Zeit. Kein Problem, meint Benjamin! Von da an geistern sie zu dritt durch den Zoo und erschrecken dabei versehentlich Tiere wie Besucher. Herr Tierlieb findet das nicht lustig.",
   "release_year": 2017,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2640,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Frau Sauerbier",
+      "person": "N. Herting"
+    },
+    {
+      "role": "Sophie",
+      "person": "S. Tkotsch"
+    },
+    {
+      "role": "Konrad Knittrig",
+      "person": "R. Gerlach"
+    },
+    {
+      "role": "Kasimir",
+      "person": "G. Schaale"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425536-428536",
+      "EAN": [
+        "4001504255367",
+        "4001504285364",
+        "4033694255360"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-136/benjamin-bluemchen-spuk-im-zoo",
@@ -16,6 +101,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-spuk-im-zoo-folge-136.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

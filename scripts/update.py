@@ -19,11 +19,23 @@ from bbmeta.scrapers import (
     HOERSPIELE_DETAIL_URL, HOERSPIELE_LIST_URL, OFFICIAL_LIST_URL,
     empty_episode, merge_episode, parse_hoerspiele_detail,
     parse_hoerspiele_list, parse_hoernews_detail, parse_hoernews_index,
-    parse_official_detail, parse_official_list, source,
+    parse_official_detail, parse_official_list, parse_shop_detail, parse_shop_url, source,
 )
 
 CACHE = ROOT / ".cache"
 USER_AGENT = "benjaminmeta/0.1 (public metadata research; contact via repository)"
+SHOP_URL_OVERRIDES = {
+    45: "https://www.kiddinx-shop.de/benjamin-bluemchen-als-zirkusclown-folge-45.html",
+    46: "https://www.kiddinx-shop.de/benjamin-bluemchen-hilft-den-tieren-folge-46.html",
+    52: "https://www.kiddinx-shop.de/benjamin-bluemchen-der-weihnachtstraum-folge-52.html",
+    105: "https://www.kiddinx-shop.de/benjamin-bluemchen-das-fleissige-faultier-folge-105.html",
+    114: "https://www.kiddinx-shop.de/benjamin-blumchen-und-der-delfin-folge-114.html",
+    115: "https://www.kiddinx-shop.de/benjamin-bluemchen-die-kleinen-katzchen-folge-115-cd.html",
+    117: "https://www.kiddinx-shop.de/benjamin-blumchen-die-zoo-schwimmschule-folge-117.html",
+    120: "https://www.kiddinx-shop.de/benjamin-blumchen-der-zeltausflug-folge-120.html",
+    124: "https://www.kiddinx-shop.de/benjamin-bluemchen-im-tante-emma-laden-folge-124.html",
+    138: "https://www.kiddinx-shop.de/benjamin-bluemchen-das-neue-muellauto-folge138.html",
+}
 
 
 def fetch(url: str, target: Path, refresh: bool, offline: bool, encoding: str = "utf-8") -> str:
@@ -88,6 +100,7 @@ def main() -> int:
     official: dict[int, dict] = {}
     hsp: dict[int, dict] = {}
     hoernews: dict[int, dict] = {}
+    shop: dict[int, dict] = {}
     failures: list[str] = []
 
     def official_job(item: dict) -> tuple[str, int, dict]:
@@ -119,6 +132,28 @@ def main() -> int:
             except (OSError, urllib.error.URLError, ValueError) as error:
                 failures.append(str(error))
 
+    shop_urls: dict[int, str] = {}
+    for number, item in official_index.items():
+        html = fetch(item["url"], CACHE / "official" / f"{number:03d}.html", args.refresh, args.offline)
+        if shop_url := parse_shop_url(html):
+            shop_urls[number] = shop_url
+    shop_urls.update(SHOP_URL_OVERRIDES)
+    print(f"KIDDINX-Shop: {len(shop_urls)} verlinkte Produktseiten")
+
+    def shop_job(number: int, url: str) -> tuple[int, dict | None]:
+        html = fetch(url, CACHE / "kiddinx-shop.de" / f"{number:03d}.html", args.refresh, args.offline)
+        return number, parse_shop_detail(html, number, url, today)
+
+    with ThreadPoolExecutor(max_workers=min(3, max(1, args.workers))) as executor:
+        jobs = [executor.submit(shop_job, number, url) for number, url in shop_urls.items()]
+        for future in as_completed(jobs):
+            try:
+                number, episode = future.result()
+                if episode:
+                    shop[number] = episode
+            except (OSError, urllib.error.URLError, ValueError) as error:
+                failures.append(str(error))
+
     numbers = sorted(set(official_index) | {number for number in hsp_index if number <= 170})
     episodes = []
     for number in numbers:
@@ -126,7 +161,8 @@ def main() -> int:
         if not base.get("title") and number in official_index:
             base.update({key: official_index[number].get(key) for key in ("title", "release_year")})
         combined = merge_episode(base, hsp.get(number) or empty_episode(number))
-        episodes.append(merge_episode(combined, hoernews.get(number) or empty_episode(number)))
+        combined = merge_episode(combined, hoernews.get(number) or empty_episode(number))
+        episodes.append(merge_episode(combined, shop.get(number) or empty_episode(number)))
     episode_137 = next(episode for episode in episodes if episode["number"] == 137)
     if not episode_137["release_year"]:
         episode_137["release_year"] = 2017

@@ -3,18 +3,109 @@
   "title": "Schatzsuche im Zoosee",
   "description": "Als die Ente Nat-Nat eine Goldmünze im Zoosee findet, vermuten Benjamin und Otto dort einen Schatz. Und weil Karla Kolumna darüber berichtet, kommen lauter Schatzsucher in den Zoo. Aber Direktor Tierlieb entscheidet, nur Benjamin und Otto dürfen danach tauchen. Gut, dass Eddi Eddison gerade eine Tauchglocke für zwei erfunden hat.",
   "release_year": 2022,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2022-09-23",
+  "duration_seconds": 2880,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "S. Ziesmer"
+    },
+    {
+      "role": "Butler James",
+      "person": "F. Muth"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios GmbH"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425552-428552",
+      "EAN": [
+        "4001504255527",
+        "4001504285524",
+        "4033694255520"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-152/benjamin-bluemchen-schatzsuche-im-zoosee",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-schatzsuche-im-zoosee-folge-152.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

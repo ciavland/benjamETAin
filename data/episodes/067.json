@@ -19,9 +19,37 @@
       "person": "Primel, Kai"
     }
   ],
-  "production": [],
+  "production": [
+    {
+      "credit": "Text und Musik",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Redaktion/Produktion",
+      "value": "Jutta Buschenhagen"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426567-427567",
+      "EAN": [
+        "4001504265670",
+        "4001504275679",
+        "4033694265673"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-67/benjamin-bluemchen-meine-schoensten-lieder",
@@ -39,6 +67,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-meine-schoensten-lieder-folge-67.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

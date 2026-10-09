@@ -7,6 +7,8 @@ from bbmeta.scrapers import (
     parse_hoerspiele_list,
     parse_official_detail,
     parse_official_list,
+    parse_shop_detail,
+    parse_shop_url,
 )
 
 
@@ -40,6 +42,24 @@ class ScraperTests(unittest.TestCase):
         merged = merge_episode(official, detail)
         self.assertEqual(merged["duration_seconds"], 2700)
         self.assertEqual(merged["cast"][0]["person"], "Edgar Ott")
+
+    def test_shop_parser(self):
+        official = '<a href="http://www.kiddinx-shop.de/folge-170.html">Zum Shop</a>'
+        self.assertEqual(parse_shop_url(official), "https://www.kiddinx-shop.de/folge-170.html")
+        html = '''<div class="product-info-secondary"><div class="medium-4">
+        <div class="title">Folge 170 - in Australien</div><p>Eine Reise.</p>
+        <table><tr><td>Spieldauer:</td><td>56 min</td></tr>
+        <tr><td>Veröffentlicht:</td><td>22.05.2026</td></tr><tr><td>SKU:</td><td>425570</td></tr></table></div>
+        <div class="secondary-toggle"><div class="title">Produktion</div>
+        <p>Buch: Vincent Andreas<br>Regie: Ludwig Schultz</p>
+        <div class="title">Sprecher</div><p>Benjamin Blümchen: M. Klemm<br>Otto: K. Primel<br>u.a.</p></div></div>
+        <script>"ean":"4001504255701"</script>'''
+        episode = parse_shop_detail(html, 170, "https://example.test/170", "2026-01-01")
+        self.assertEqual(episode["release_date"], "2026-05-22")
+        self.assertEqual(episode["duration_seconds"], 3360)
+        self.assertEqual(len(episode["cast"]), 2)
+        self.assertEqual(episode["production"][0]["credit"], "Buch")
+        self.assertEqual(episode["editions"][0]["EAN"], ["4001504255701"])
 
 
 if __name__ == "__main__":

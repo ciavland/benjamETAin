@@ -3,18 +3,105 @@
   "title": "Die verrückte Reise",
   "description": "Benjamin hat eine Reise ans Meer gewonnen. Zusammen mit seinem besten Freund Otto macht er sich auf den Weg. Doch dann fährt ihnen der Zug vor der Nase weg und ihr Koffer ist futsch. Sie beschließen, sich dann eben anders zum Ziel durchzuschlagen und eh sie sich‘s versehen, beginnt ihre verrückte Reise voller Abenteuer.",
   "release_year": 2026,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2026-03-20",
+  "duration_seconds": 2400,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Rosalia Rossi",
+      "person": "J. R. Peer"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Doris Riedl"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Grafik",
+      "value": "dreispur GmbH"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Verreisen“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425569-428569",
+      "EAN": [
+        "4001504255695",
+        "4001504285692",
+        "4033694255698"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-169/benjamin-bluemchen-die-verrueckte-reise",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-die-verruckte-reise-folge-169.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

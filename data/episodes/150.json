@@ -3,18 +3,140 @@
   "title": "... auf Weltreise",
   "description": "Benjamin möchte dem Herrn Bürgermeister beweisen, dass er auf der ganzen Welt Leute kennt. Deshalb begibt er sich mit Otto auf eine Weltreise und will überall Mitbringsel besorgen. Unterwegs sind die beiden mit Eddi Eddisons neuester Erfindung: dem fliegenden Eddi-Mobil. Sie haben aber nur eine Woche Zeit. Ob sie das schaffen?",
   "release_year": 2022,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2022-01-21",
+  "duration_seconds": 4620,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "S. Krause"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "S. Ziesmer"
+    },
+    {
+      "role": "Herr Wang",
+      "person": "G. Schaale"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Prof. Magneticus",
+      "person": "K. Eichel"
+    },
+    {
+      "role": "Onkel Hugo",
+      "person": "L. Mackensy"
+    },
+    {
+      "role": "Nivi",
+      "person": "S. Alles"
+    },
+    {
+      "role": "Djalu",
+      "person": "S. Tkotsch"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A.Film / digital-art-design"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425550-428550",
+      "EAN": [
+        "4001504255503",
+        "4001504285500"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-150/benjamin-bluemchen-auf-weltreise",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-auf-weltreise-folge-150.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

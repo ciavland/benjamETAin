@@ -3,18 +3,121 @@
   "title": "... als Sänger",
   "description": "Benjamin ist bester Laune und möchte einfach nur den ganzen Tag singen, was er auch tut. Otto findet den Gesang seines Freundes wunderbar, weshalb Benjamin beschließt, Sänger zu werden und ein Konzert im Zoo zu geben. Die Vorbereitungen dafür laufen prima, doch am nächsten Tag ist Benjamin verschwunden. Was ist da bloß passiert?",
   "release_year": 2024,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2024-03-22",
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Käpt’n der Aurora",
+      "person": "L. Schnell"
+    },
+    {
+      "role": "Luise Laggetsch",
+      "person": "N. Pasta"
+    },
+    {
+      "role": "Gisela Gleis",
+      "person": "P. Peters-Arnolds"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse/Dirk Müller"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "„Ich bin so froh bei uns im Zoo!“ (Lied)",
+      "value": "Martin de Vries"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425557-428557",
+      "EAN": [
+        "4001504255572",
+        "4001504285579",
+        "4033694255575"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-157/benjamin-bluemchen-als-saenger",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-saenger-folge-157.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

@@ -4,11 +4,92 @@
   "description": "Benjamin, Otto und Stella wollen am Neustädter Drachenflugtag teilnehmen. Dazu muss man zunächst einen Drachen selbst bauen und ihn dann erfolgreich auf dem Wettbewerb steigen lassen. Die Konkurrenz ist groß: Der Bürgermeister, Herr Pichler und Karla Kolumna machen auch mit. Und am Flugtag erlebt so mancher eine Überraschung!",
   "release_year": 2015,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2460,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "Jürgen Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "Katja Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "Marie Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "Ulrike Stürzbecher"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Roland Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Wilfried Herbst"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "Santiago Ziesmer"
+    },
+    {
+      "role": "Frau Flattermann",
+      "person": "Susanne Bredehöft"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Gunter Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton/Geräusche",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425529-428529",
+      "EAN": [
+        "4001504255299",
+        "4001504285296",
+        "4033694255292"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-129/benjamin-bluemchen-der-drachenflugtag",
@@ -16,6 +97,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-der-drachenflugtag-folge-129.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

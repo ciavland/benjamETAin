@@ -4,11 +4,92 @@
   "description": "Benjamin, Otto und Stella kümmern sich um die Zootiere, denn Wärter Karl ist im Urlaub und Direktor Tierlieb hat ein Gipsbein. Allerdings ist das sehr viel Arbeit. Deshalb baut der Erfinder Eddi Eddison eine Maschine, die ihnen hilft. Doch vor der fürchten sich die Zootiere. Deshalb müssen ein paar spaßige Umbauten her!",
   "release_year": 2010,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2280,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Evers"
+    },
+    {
+      "role": "Baron v. Zwiebelschreck",
+      "person": "F.G. Beckhaus"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "S. Ziesmer"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, Kiddinx Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Özcan Sen"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425516-428516",
+      "EAN": [
+        "4001504255169",
+        "4001504285166",
+        "4033694255162"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-116/benjamin-bluemchen-die-spassmaschine",
@@ -16,6 +97,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-die-spassmaschine-folge-116.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

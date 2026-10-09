@@ -3,18 +3,113 @@
   "title": "Die Elchkuh",
   "description": "Im Neustädter Forst stoßen Benjamin und Otto auf eine Elchkuh und erschrecken sich vor dem Tier. Doch Karla Kolumna kann sie beruhigen, Elchkühe seien ungefährlich. Der Bürgermeister jedoch sieht das anders, sperrt den Wald ab und will die Elchkuh einfangen und wegbringen lassen. Das muss unbedingt verhindert werden!",
   "release_year": 2026,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2026-01-16",
+  "duration_seconds": 2520,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "R. Hemmo"
+    },
+    {
+      "role": "Förster Waldmann",
+      "person": "C. Eichel"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Doris Riedl"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Grafik",
+      "value": "dreispur GmbH"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Elche“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425568-428568",
+      "EAN": [
+        "4001504255688",
+        "4001504285685",
+        "4033694255681"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-168/benjamin-bluemchen-die-elchkuh",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-die-elchkuh-folge-168.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

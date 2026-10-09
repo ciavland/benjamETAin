@@ -3,18 +3,121 @@
   "title": "... als Robin Hood",
   "description": "Der Bürgermeister will Ringo Rotfuchs an eine Dame abgeben, die ihm dafür viel Geld bietet. Da Zoodirektor Tierlieb nicht da ist, muss Benjamin das verhindern! Er flüchtet mit Ringo, Otto und Karl in den nahen Wald und versteckt sich wie Robin Hood. Doch der Bürgermeister nimmt die Verfolgung auf, wie der Sheriff von Nottingham!",
   "release_year": 2024,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2024-08-02",
+  "duration_seconds": 2640,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Scheunemann"
+    },
+    {
+      "role": "Tierpfleger Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Herr Bürgermeister",
+      "person": "Roland Hemmo"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "Stefan Krause"
+    },
+    {
+      "role": "Gräfin Foxalie von Foxtrott",
+      "person": "Sabine Jaeger"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Sage“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425559-428559",
+      "EAN": [
+        "4001504255596",
+        "4001504285593",
+        "4033694255599"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-159/benjamin-bluemchen-als-robin-hood",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-als-robin-hood-folge-159.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

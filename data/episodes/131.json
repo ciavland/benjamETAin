@@ -5,7 +5,36 @@
   "release_year": 2016,
   "release_date": null,
   "duration_seconds": 2520,
-  "cast": [],
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Friedrich Flussmann",
+      "person": "F. Ptok"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
   "production": [
     {
       "credit": "Buch",
@@ -29,7 +58,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425531-428531",
+      "EAN": [
+        "4001504255312",
+        "4001504285319",
+        "4033694255315"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-131/benjamin-bluemchen-auf-grosser-flossfahrt",
@@ -46,6 +86,18 @@
       "fields": [
         "description",
         "duration_seconds",
+        "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-auf-grosser-flossfahrt-folge-131.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
         "production",
         "title"
       ]

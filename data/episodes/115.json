@@ -3,18 +3,111 @@
   "title": "Die kleinen Kätzchen",
   "description": "Benjamin findet ein kleines Kätzchen im Zoo. Wem es wohl gehört? Zusammen mit Stella und Otto will er das herausfinden. Da läuft den dreien Butler James über den Weg. Er ist auf der Suche nach einer Katze – doch ihre ist es nicht. Seltsam! Eine Katze verschwindet, eine andere wird gefunden. Ob sie dieses Rätsel lösen können?",
   "release_year": 2010,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2010-10-08",
+  "duration_seconds": 2280,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Evers"
+    },
+    {
+      "role": "Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Butler James",
+      "person": "F. Muth"
+    },
+    {
+      "role": "Josefine",
+      "person": "K. Buchholz"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425515",
+      "EAN": [
+        "4001504255152"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-115/benjamin-bluemchen-die-kleinen-kaetzchen",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-die-kleinen-katzchen-folge-115-cd.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

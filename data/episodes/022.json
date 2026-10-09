@@ -3,7 +3,7 @@
   "title": "... als Kinderarzt",
   "description": "Benjamins Freund Otto hat die Masern und muss im Bett bleiben. Allein ist es aber immer so langweilig und so schlendert er betrübt durch Neustadt. Da erfährt er, dass auch der Kinderarzt Masern hat. Vielleicht kann Benjamin ja für ihn einspringen? Den Kindern gefällt es und Karla Kolumna hilft ihm bei einem schwierigen Fall.",
   "release_year": 1983,
-  "release_date": null,
+  "release_date": "1988-11-01",
   "duration_seconds": 3000,
   "cast": [
     {
@@ -82,7 +82,18 @@
     }
   ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426522-427522",
+      "EAN": [
+        "4001504265229",
+        "4001504275228",
+        "4033694265222"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-22/benjamin-bluemchen-als-kinderarzt",
@@ -112,6 +123,20 @@
         "description",
         "duration_seconds",
         "production",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-als-kinderarzt-folge-22.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
+        "release_year",
         "title"
       ]
     }

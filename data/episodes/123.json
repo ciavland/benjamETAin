@@ -4,11 +4,100 @@
   "description": "Benjamin, Otto und Stella besuchen Erfinder Eddi Eddison in der Spielzeugfabrik. Dort dürfen sie Spielzeug testen. Benjamin übernimmt Eddis neueste Erfindungen: die Mäxchen. Das sind kleine Aufziehfiguren. Doch beim Spielen wird Benjamin müde – und plötzlich ist er so klein wie die Mäxchen und die Figuren beginnen zu reden!",
   "release_year": 2013,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2520,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "G. Fritsch"
+    },
+    {
+      "role": "Eddi Eddison",
+      "person": "S. Ziesmer"
+    },
+    {
+      "role": "Mäxchen",
+      "person": "O. Ünal"
+    },
+    {
+      "role": "Flattermax",
+      "person": "St. Fredrichs"
+    },
+    {
+      "role": "Paddelmax",
+      "person": "R. Fritzsche"
+    },
+    {
+      "role": "Maximilian",
+      "person": "G. Tryphon"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425523-428523",
+      "EAN": [
+        "4001504255237",
+        "4001504285234",
+        "4033694255230"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-123/benjamin-bluemchen-der-spielzeugfabrik",
@@ -16,6 +105,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-in-der-spielzeugfabrik-folge-123.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

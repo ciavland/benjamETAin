@@ -35,9 +35,41 @@
       "person": "Giese, Heinz"
     }
   ],
-  "production": [],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Elfie Donnelly/ Ulli Herzog"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ulli Herzog"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Redaktion/Produktion",
+      "value": "Jutta Buschenhagen"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "426565-427565",
+      "EAN": [
+        "4001504265656",
+        "4001504275655",
+        "4033694265659"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-65/benjamin-bluemchen-wo-ist-otto",
@@ -55,6 +87,18 @@
         "cast",
         "description",
         "duration_seconds",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-wo-ist-otto-folge-65.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

@@ -4,11 +4,92 @@
   "description": "Benjamin und Otto besuchen die Familie Humpe auf ihrem Bauernhof in den Bergen. Dort werden sie ganz herzlich empfangen, und gerne helfen sie wieder mit bei der Hofarbeit. Alles läuft prima, doch da gesellt sich zu den vier Ponys der Humpes noch ein fünftes. Wem gehört das bloß? Doch nicht etwa den neuen, unliebsamen Nachbarn?",
   "release_year": 2020,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Anni",
+      "person": "J. Stoepel"
+    },
+    {
+      "role": "Bauer Humpe",
+      "person": "F. Halm"
+    },
+    {
+      "role": "Bäuerin Rosi",
+      "person": "D. Weigert"
+    },
+    {
+      "role": "Olivia Schackedönz",
+      "person": "L. Rudolph"
+    },
+    {
+      "role": "Hinnerk Schackedönz",
+      "person": "L. Mackensy"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Madlen Frey, Till Bayreuther"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425545-428545",
+      "EAN": [
+        "4001504255459",
+        "4001504285456",
+        "4033694255452"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-145/benjamin-bluemchen-zurueck-auf-dem-bauernhof",
@@ -16,6 +97,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-zuruck-auf-dem-bauernhof-folge-145.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

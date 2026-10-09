@@ -3,18 +3,109 @@
   "title": "... in Australien",
   "description": "Benjamin und Otto treffen sich in Sydney mit ihrem Freund Djalu. Dort geraten sie zufällig an ein gestohlenes Schnabeltier. Das unter Schutz stehende Tier muss dringend wieder zurück in die Wildnis! Die drei Freunde wollen es in einen sicheren Nationalpark bringen. Eine abenteuerliche Fahrt durch Australien beginnt!",
   "release_year": 2026,
-  "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "release_date": "2026-05-22",
+  "duration_seconds": 3360,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Djalu",
+      "person": "S. Tkotsch"
+    },
+    {
+      "role": "Wanda Westenweiß",
+      "person": "M. Treger"
+    },
+    {
+      "role": "Fred Floret",
+      "person": "J. Berenz"
+    },
+    {
+      "role": "Kilee",
+      "person": "D. Lehmann"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Dirk Müller"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425570-428570",
+      "EAN": [
+        "4001504255701",
+        "4001504285708",
+        "4033694255704"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-170/benjamin-bluemchen-australien",
       "retrieved_at": "2026-10-09",
       "fields": [
         "description",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-in-australien-folge-170.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
+        "release_date",
         "release_year",
         "title"
       ]

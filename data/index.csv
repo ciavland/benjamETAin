@@ -102,70 +102,70 @@ number,title,release_year,duration_seconds,cast_count
 101,Ottos neue Freundin Teil 2,2005,3000,8
 102,Das Pinguin-Ei,2005,3000,9
 103,5:0 für Benjamin,2006,4080,7
-104,Die Zoo-Olympiade,2006,,9
+104,Die Zoo-Olympiade,2006,2640,9
 105,Das fleißige Faultier,2007,3000,8
 106,Das Spaghetti-Eis-Fest,2007,2520,11
 107,… in Schottland,2007,3000,12
 108,Ottos kleines Geheimnis,2008,3000,8
-109,... als Baggerfahrer,2008,3000,0
-110,Hilfe für das Pandababy,2008,3000,0
+109,... als Baggerfahrer,2008,3000,9
+110,Hilfe für das Pandababy,2008,3000,7
 111,"Sei nicht traurig, Benjamin!",2009,3000,10
 112,Die Elefantenkönigin,2009,3000,8
-113,Der Abenteuer-Spielplatz,2010,,10
-114,… und der Delfin,2010,,0
-115,Die kleinen Kätzchen,2010,,0
-116,Die Spaßmaschine,2010,,0
-117,Die Zoo-Schwimmschule,2011,,0
-118,... auf der Baustelle,2011,,0
-119,… als Busfahrer,2012,,0
-120,Der Zeltausflug,2012,,0
-121,Die Fahrrad-Wette,2012,,0
-122,... als Polizist,2012,,0
-123,… in der Spielzeugfabrik,2013,,0
-124,… im Tante-Emma-Laden,2013,,0
-125,... und die Zirkusponys,2014,,0
-126,Der Zoo-Kindergarten,2014,,0
-127,… in der Musikschule,2014,,0
-128,... und die Schnitzeljagd,2014,,0
-129,Der Drachenflugtag,2015,,0
-130,… und der sprechende Papagei,2015,,0
-131,… auf großer Floßfahrt,2016,2520,0
-132,Das Seifenkisten-Rennen,2016,,0
-133,... auf dem Flughafen,2016,,0
-134,Abschied von Stella,2017,,0
-135,Die Zoo-Feuerwehr,2017,,0
-136,Spuk im Zoo,2017,,0
-137,Ein Törööö für alle Fälle,2017,,0
-138,Das neue Müllauto,2018,,0
-139,Der Dinosaurierknochen,2018,,0
-140,Weihnachtsmarkt im Zoo,2018,,0
-141,Nachts in der Erfinderwerkstatt,2019,,0
-142,Das besondere Osterei,2019,,0
-143,Die Halloween-Nacht,2019,,0
-144,Zuckerstückchen-Express,2020,,0
-145,Zurück auf dem Bauernhof,2020,,0
-146,... als Wikinger,2020,,0
-147,Schlittenfahrt mit Hindernissen,2021,,0
-148,... als Rettungselefant,2021,,0
-149,auf der Tankstelle,2021,,0
-150,... auf Weltreise,2022,,0
-151,Das Elefantenkarussell,2022,,0
-152,Schatzsuche im Zoosee,2022,,0
-153,Das große Gewitter,2023,,0
-154,... in Italien,2023,,0
-155,... und der Roboter,2023,,0
-156,... als Bergretter,2023,,0
-157,... als Sänger,2024,,0
-158,Der Fußball-Pokal,2024,,0
-159,... als Robin Hood,2024,,0
-160,... als Höhlenforscher,2024,,0
-161,Zurück zur Leuchtturminsel,2024,,0
-162,Ärger mit Rudi Raffke,2025,,0
-163,Die Drehorgel,2025,,0
-164,... als Eisverkäufer,2025,,0
-165,Der Paradiesvogel,2025,,0
-166,Im Football-Fieber,2025,,0
-167,Der Meisterdetektiv,2025,,0
-168,Die Elchkuh,2026,,0
-169,Die verrückte Reise,2026,,0
-170,... in Australien,2026,,0
+113,Der Abenteuer-Spielplatz,2010,2640,10
+114,… und der Delfin,2010,2100,8
+115,Die kleinen Kätzchen,2010,2280,9
+116,Die Spaßmaschine,2010,2280,8
+117,Die Zoo-Schwimmschule,2011,2460,8
+118,... auf der Baustelle,2011,2460,10
+119,… als Busfahrer,2012,2400,7
+120,Der Zeltausflug,2012,2220,7
+121,Die Fahrrad-Wette,2012,2160,8
+122,... als Polizist,2012,2460,10
+123,… in der Spielzeugfabrik,2013,2520,10
+124,… im Tante-Emma-Laden,2013,2700,9
+125,... und die Zirkusponys,2014,2640,10
+126,Der Zoo-Kindergarten,2014,2580,10
+127,… in der Musikschule,2014,2700,10
+128,... und die Schnitzeljagd,2014,2520,13
+129,Der Drachenflugtag,2015,2460,9
+130,… und der sprechende Papagei,2015,2340,10
+131,… auf großer Floßfahrt,2016,2520,7
+132,Das Seifenkisten-Rennen,2016,2400,8
+133,... auf dem Flughafen,2016,2280,9
+134,Abschied von Stella,2017,,10
+135,Die Zoo-Feuerwehr,2017,2580,8
+136,Spuk im Zoo,2017,2640,9
+137,Ein Törööö für alle Fälle,2017,3840,10
+138,Das neue Müllauto,2018,2400,7
+139,Der Dinosaurierknochen,2018,2400,9
+140,Weihnachtsmarkt im Zoo,2018,2580,6
+141,Nachts in der Erfinderwerkstatt,2019,2400,7
+142,Das besondere Osterei,2019,2880,10
+143,Die Halloween-Nacht,2019,2640,7
+144,Zuckerstückchen-Express,2020,2580,10
+145,Zurück auf dem Bauernhof,2020,2700,8
+146,... als Wikinger,2020,2700,8
+147,Schlittenfahrt mit Hindernissen,2021,2640,7
+148,... als Rettungselefant,2021,3300,7
+149,auf der Tankstelle,2021,2700,6
+150,... auf Weltreise,2022,4620,15
+151,Das Elefantenkarussell,2022,2640,9
+152,Schatzsuche im Zoosee,2022,2880,7
+153,Das große Gewitter,2023,2700,7
+154,... in Italien,2023,2940,7
+155,... und der Roboter,2023,3240,7
+156,... als Bergretter,2023,3480,6
+157,... als Sänger,2024,2700,9
+158,Der Fußball-Pokal,2024,2700,9
+159,... als Robin Hood,2024,2640,9
+160,... als Höhlenforscher,2024,2700,5
+161,Zurück zur Leuchtturminsel,2024,2520,8
+162,Ärger mit Rudi Raffke,2025,2640,8
+163,Die Drehorgel,2025,2640,8
+164,... als Eisverkäufer,2025,2640,9
+165,Der Paradiesvogel,2025,3540,9
+166,Im Football-Fieber,2025,2700,9
+167,Der Meisterdetektiv,2025,2580,8
+168,Die Elchkuh,2026,2520,6
+169,Die verrückte Reise,2026,2400,4
+170,... in Australien,2026,3360,7

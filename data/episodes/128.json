@@ -4,11 +4,112 @@
   "description": "Heute findet im Zoo ein Kinderfest mit Schnitzeljagd statt. Herr Tierlieb und Wärter Karl haben alles vorbereitet. Benjamin tritt mit einer Gruppe Kinder gegen Stella, Otto und deren Team an. Die Jagd führt durch Neustadt, es gibt viele Stationen mit zu lösenden Aufgaben. Leider stören Unbekannte den Spaß. Wer kann das nur sein?",
   "release_year": 2014,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2520,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "J. Kluckert"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Stella",
+      "person": "M. Bierstedt"
+    },
+    {
+      "role": "Herr Tierlieb",
+      "person": "R. Evers"
+    },
+    {
+      "role": "Wärter Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Sekretär Pichler",
+      "person": "W. Herbst"
+    },
+    {
+      "role": "Frau Stellini",
+      "person": "M. Pukaß"
+    },
+    {
+      "role": "Hinki",
+      "person": "M. Pan"
+    },
+    {
+      "role": "Pinki",
+      "person": "A. Mannkopff"
+    },
+    {
+      "role": "Lena",
+      "person": "F. Faika"
+    },
+    {
+      "role": "Felix",
+      "person": "N. Kalbow"
+    },
+    {
+      "role": "Sara",
+      "person": "M. Hinze"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Michael Schlimgen"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Brigitte Brüse"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "AMC-Design, Wolfgang Looskyll"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425528-428528",
+      "EAN": [
+        "4001504255282",
+        "4001504285289",
+        "4033694255285"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-128/benjamin-bluemchen-und-die-schnitzeljagd",
@@ -16,6 +117,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-bluemchen-und-die-schnitzeljagd-folge-128.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }

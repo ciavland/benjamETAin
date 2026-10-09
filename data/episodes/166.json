@@ -4,11 +4,104 @@
   "description": "Benjamin und Otto sollen dem ehemaligen Footballstar Bernie Ballmeister aus Amerika einen Ball als Glücksbringer überbringen. Er ist nun Trainer in Neustadt, doch leider ist es ein anderes Neustadt, in dem er wohnt. Und das müssen die beiden mit Karla Kolumna erstmal finden. Aber dann ist da auch noch jemand hinter dem Ball her!",
   "release_year": 2025,
   "release_date": null,
-  "duration_seconds": null,
-  "cast": [],
-  "production": [],
+  "duration_seconds": 2700,
+  "cast": [
+    {
+      "role": "Benjamin Blümchen",
+      "person": "M. Klemm"
+    },
+    {
+      "role": "Otto",
+      "person": "K. Primel"
+    },
+    {
+      "role": "Tierpfleger Karl",
+      "person": "T. Hagen"
+    },
+    {
+      "role": "Karla Kolumna",
+      "person": "U. Stürzbecher"
+    },
+    {
+      "role": "Hinki",
+      "person": "M. Pan"
+    },
+    {
+      "role": "Pinki",
+      "person": "J. Kaps"
+    },
+    {
+      "role": "Bernie Ballmeister",
+      "person": "B. Völger"
+    },
+    {
+      "role": "Jeff Justinson",
+      "person": "T. Nath"
+    },
+    {
+      "role": "Erzähler",
+      "person": "G. Schoß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Vincent Andreas"
+    },
+    {
+      "credit": "Regie",
+      "value": "Ludwig Schultz"
+    },
+    {
+      "credit": "Ton",
+      "value": "Carsten T. Brüse"
+    },
+    {
+      "credit": "Sounddesign",
+      "value": "Paul Kraus"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Carsten Richter"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Dirk Gabler"
+    },
+    {
+      "credit": "Produktion",
+      "value": "Gabi Salomon"
+    },
+    {
+      "credit": "Titelsong",
+      "value": "Heiko Rüsse, KIDDINX Studios"
+    },
+    {
+      "credit": "Illustration",
+      "value": "A-Film, digital-art-design"
+    },
+    {
+      "credit": "Grafik",
+      "value": "dreispur GmbH"
+    },
+    {
+      "credit": "Bonus-Track",
+      "value": "„Football“"
+    }
+  ],
   "tracks": [],
-  "editions": [],
+  "editions": [
+    {
+      "Erschienen bei": "KIDDINX",
+      "Altersempfehlung": "ab 3 Jahre",
+      "SKU": "425566-428566",
+      "EAN": [
+        "4001504255664",
+        "4001504285661",
+        "4033694255667"
+      ]
+    }
+  ],
   "sources": [
     {
       "url": "https://www.benjaminbluemchen.de/hoerspiele/nr-166/benjamin-bluemchen-im-footballfieber",
@@ -16,6 +109,18 @@
       "fields": [
         "description",
         "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.kiddinx-shop.de/benjamin-blumchen-im-football-fieber-folge-166.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "editions",
+        "production",
         "title"
       ]
     }
